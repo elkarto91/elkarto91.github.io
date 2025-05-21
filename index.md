@@ -8,7 +8,8 @@ title: "Karthik Mohan – Product Maestro"
 AVP – Products | MBA (AI for Business) | Blockchain, AI, and Applied Systems Thinker  
 *Exploring the deep space between code, people, and purpose.*
 
-![Retro Futuristic Tech Banner](/assets/retro-tech-banner.png)
+<img src="./assets/retro-tech-banner.png" alt="Retro Tech Banner" class="hero-banner" />
+
 
 ---
 
@@ -83,26 +84,18 @@ Explore my case-study-grade conceptual projects:
 - _“From Stack to Strategy”_ – [Read →](https://your-notion-blog-link)  
 - _“Building FairChain”_ – On blockchain + transparency
 
----
 
-## 🖼️ Gallery – Inspired by the Cosmos
-
-![Retro Planet](/assets/retro-space1.png)  
-![Neon Console](/assets/retro-space2.png)  
-![Fractal Grid Horizon](/assets/retro-space3.png)
-
----
 
 ## 📄 Resume
 
-📎 [Download Resume (PDF)](/assets/Karthik_Mohan_Resume.pdf)
+📎 [Download Resume (PDF)](/assets/Complete-CV.pdf)
 
 ---
 
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)  
-- 📧 karthik@example.com  
+- 📧   
 - 💻 [GitHub](https://github.com/elkarto91)
 
 ---
