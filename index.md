@@ -90,15 +90,15 @@ Explore my case-study-grade conceptual projects:
 
 ## 🖼️ Gallery – Inspired by the Cosmos
 
-![Retro Planet 1](./assets/retro-space1.png)
-![Neon Console](./assets/retro-space2.png)
-![Fractal Grid Horizon](./assets/retro-space3.png)
+![Retro Planet 1](/assets/retro-space1.png)
+![Neon Console](/assets/retro-space2.png)
+![Fractal Grid Horizon](/assets/retro-space3.png)
 
 ---
 
 ## 📄 Resume
 
-[📎 Download Resume (PDF)](./assets/Karthik_Mohan_Resume.pdf)
+[📎 Download Resume (PDF)](/assets/Karthik_Mohan_Resume.pdf)
 
 ---
 
