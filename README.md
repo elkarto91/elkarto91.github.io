@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+# 🧑‍💼 Karthik Mohan – Personal Product Portfolio
 
-You can use the [editor on GitHub](https://github.com/elkarto91/elkarto91.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website, powered by GitHub Pages and built using a Jekyll-based theme.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🔗 Live at: [https://elkarto91.github.io](https://elkarto91.github.io)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🎯 About This Site
 
-```markdown
-Syntax highlighted code block
+This is my professional homepage — a place to showcase:
 
-# Header 1
-## Header 2
-### Header 3
+- ✅ Real and Conceptual Product Projects
+- 🧠 Thought leadership and blog posts
+- 📄 Resume and LinkedIn
+- 📦 GitHub repositories with full product lifecycle documents
 
-- Bulleted
-- List
+Built using a GitHub Pages Jekyll theme for speed, clarity, and version control.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 🧱 Features
 
-[Link](url) and ![Image](src)
-```
+| Section | Description |
+|---------|-------------|
+| 🧑‍💻 **About Me** | Short bio, photo, and contact links |
+| 🧠 **Portfolio** | Links to my concept product case studies: CityFlow, Kaya, LoopList, TrustBridge |
+| 📝 **Blog** | External link to “Productive Chains” hosted on Notion |
+| 📄 **Resume** | Option to view/download PDF resume |
+| 🔗 **GitHub** | Links to key repositories |
+| 📫 **Contact** | Email, LinkedIn, GitHub profile links |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## 🚀 How It Works
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elkarto91/elkarto91.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This site is built on:
+- **Jekyll**: Static site generator used by GitHub Pages
+- **GitHub Pages**: Hosts and serves the site at your GitHub username domain
+- **Minimal Theme**: A clean, content-focused theme with built-in responsiveness
 
-### Support or Contact
+### To Customize:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Edit `_config.yml` to update site title, description, and links
+2. Modify `index.md` to update home page content
+3. Optionally add blog posts to the `_posts/` folder
+
+---
+
+## 📂 Folder Structure
+
+
+elkarto91.github.io/
+├── index.md # Main homepage content
+├── _config.yml # Site configuration
+├── assets/ # Images, PDF resume, diagrams
+├── _posts/ # (Optional) Blog posts
+├── 404.html # Custom not-found page
+├── README.md # You're reading it
+
+
+
+---
+
+## 🧰 Setup Notes
+
+1. Repo name **must be** `elkarto91.github.io`
+2. GitHub Pages must be enabled from **Settings → Pages → Source: main branch / root**
+3. Theme is auto-loaded from `_config.yml` – no need to install Jekyll locally
+
+---
+
+## 📧 Contact
+
+- 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)
+- 📫 karthik@example.com
+- 🧠 [Productive Chains Blog](https://notion.link)
+- 💻 [GitHub Portfolio](https://github.com/elkarto91/portfolio)
+
+---
+
+> “Build systems that matter. Scale with purpose.” – Karthik Mohan

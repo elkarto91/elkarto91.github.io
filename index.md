@@ -7,6 +7,10 @@ title: "Karthik Mohan – Product Maestro"
 
 AVP – Products | MBA (AI for Business) | Blockchain & AI Strategist | Systems Thinker | 80s Sci-Fi Fanatic
 
+*Exploring the deep space between code, people, and purpose.*
+
+![Retro Futuristic Tech Banner](./assets/retro-tech-banner.png)
+
 ---
 
 ## 🌌 Who I Am
