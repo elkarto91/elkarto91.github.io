@@ -58,3 +58,8 @@ blockquote {
   margin-left: 0;
   font-style: italic;
 }
+body {
+  background-image: url('/assets/starfield_bg.png');
+  background-size: cover;
+  background-attachment: fixed;
+}

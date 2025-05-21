@@ -1,71 +1,109 @@
 ---
 layout: default
-title: "Karthik Mohan – Product Portfolio"
+title: "Karthik Mohan – Product Maestro"
 ---
 
-# 🛰️ Karthik Mohan – Product Strategist at the Edge of Systems
+# 🚀 Karthik Mohan – Product Maestro in the Era of AI and Systems Thinking
 
-AVP – Products | MBA (AI for Business) | Blockchain, AI, and Applied Systems Thinker  
-*Exploring the deep space between code, people, and purpose.*
-
----
-
-## 🚀 Featured Product Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 1em;">
-
-<div style="flex: 1 1 45%; border: 1px solid #444; background-color: #0b0b25; padding: 16px; border-radius: 10px; color: #ddd;">
-<h3>🚦 CityFlow</h3>
-<p><strong>Smart City Event & Emergency Dashboard</strong><br>
-From chaos to clarity: dashboards for civic coordination.</p>
-<a href="https://github.com/elkarto91/portfolio/tree/main/concept-projects/cityflow" style="color: #80c1ff;">View →</a>
-</div>
-
-<div style="flex: 1 1 45%; border: 1px solid #444; background-color: #0b0b25; padding: 16px; border-radius: 10px; color: #ddd;">
-<h3>🌸 Kaya</h3>
-<p><strong>AI Grief Companion</strong><br>
-Soft tech for hard moments. Sentiment-aware journaling meets ethical AI.</p>
-<a href="https://github.com/elkarto91/portfolio/tree/main/concept-projects/kaya" style="color: #ffb7ff;">View →</a>
-</div>
-
-<div style="flex: 1 1 45%; border: 1px solid #444; background-color: #0b0b25; padding: 16px; border-radius: 10px; color: #ddd;">
-<h3>♻️ LoopList</h3>
-<p><strong>Circular Economy Resale Tracker</strong><br>
-Items with a story. QR-based reuse chain and impact archive.</p>
-<a href="https://github.com/elkarto91/portfolio/tree/main/concept-projects/looplist" style="color: #c5ffb7;">View →</a>
-</div>
-
-<div style="flex: 1 1 45%; border: 1px solid #444; background-color: #0b0b25; padding: 16px; border-radius: 10px; color: #ddd;">
-<h3>🔐 TrustBridge</h3>
-<p><strong>Zero Trust Enterprise Transfer Proof</strong><br>
-Blockchain-secured, audit-friendly CLI + SDK for data movement.</p>
-<a href="https://github.com/elkarto91/portfolio/tree/main/concept-projects/trustbridge" style="color: #f7d07a;">View →</a>
-</div>
-
-</div>
+AVP – Products | MBA (AI for Business) | Blockchain & AI Strategist | Systems Thinker | 80s Sci-Fi Fanatic
 
 ---
 
-## 🧠 Writing
+## 🌌 Who I Am
 
-🔗 [Productive Chains Blog →](https://your-notion-blog-link)
+I'm a product leader obsessed with building purposeful, scalable systems at the intersection of technology, trust, and human context.
 
-Insights on applied AI, systems design, ethics, and product craft.
+- 10+ years across deep tech, enterprise platforms, and zero-trust architecture
+- Delivered blockchain-first systems for telecom, tax, and sustainability
+- Now exploring how LLMs, traceability, and system incentives change product design
+
+---
+
+## 🧭 My Product Philosophy
+
+> “Systems are shaped by incentives. Product managers are architects of those systems.”
+
+- Zero-trust doesn’t just apply to code — it applies to teams
+- A good PRD reads like a blueprint *and* a manifesto
+- Scale is meaningless without clarity and closure
+- Product success = narrative clarity × system resilience
+
+---
+
+## 🧑‍🚀 My Featured Projects
+
+Explore my case-study-grade conceptual projects:
+
+- [🔐 TrustBridge](https://github.com/elkarto91/portfolio/tree/main/concept-projects/trustbridge): Enterprise zero-trust data transfer proof with blockchain receipts
+- [🚦 CityFlow](https://github.com/elkarto91/portfolio/tree/main/concept-projects/cityflow): Smart city coordination for emergency ops
+- [🌸 Kaya](https://github.com/elkarto91/portfolio/tree/main/concept-projects/kaya): AI grief companion with ethical journaling
+- [♻️ LoopList](https://github.com/elkarto91/portfolio/tree/main/concept-projects/looplist): Reuse tracker for circular economy with impact trails
+
+---
+
+## 🧠 Skills & Tools
+
+**Product Strategy**
+- Roadmapping | GTM | Feature Prioritization | Metrics
+
+**Tech Stack**
+- Hyperledger Fabric, Hedera, Ethereum
+- LangChain, GPT APIs, Python, TypeScript
+- REST APIs, Kubernetes, Azure Cloud
+
+**Product Ops & Storytelling**
+- PRDs, RACI, DACI, MoSCoW, Notion, GitHub
+- Team writing | Pitch decks | Technical storytelling
+
+---
+
+## 🛰️ Certifications & Learning
+
+- MBA in AI for Business – BITS Pilani (WILP)
+- IBM Certified Product Manager
+- Blockchain Council (Fabric, Crypto Auditor, Metaverse)
+- Google AI Fundamentals
+
+---
+
+## 🎮 Interests & Nerd Tendencies
+
+- 80s space games & sci-fi (think: Starflight, Wing Commander, Sid Meier's Alpha Centauri)
+- Mythos design: building worlds like Māyāforge and Brahmascript
+- Recursive storytelling & decentralized philosophy
+- Ethical AI + systems of trust + sustainability
+
+---
+
+## 📝 Blog – Productive Chains
+
+> Exploring what it means to build trust-first, intelligent systems
+
+- _“From Stack to Strategy”_ – [Read on Notion →](https://your-notion-blog-link)
+- _“Building FairChain”_ – Supply chain + transparency
+
+---
+
+## 🖼️ Gallery – Inspired by the Cosmos
+
+![Retro Planet 1](./assets/retro-space1.png)
+![Neon Console](./assets/retro-space2.png)
+![Fractal Grid Horizon](./assets/retro-space3.png)
 
 ---
 
 ## 📄 Resume
 
-[Download Resume (PDF)](./assets/Karthik_Mohan_Resume.pdf)
+[📎 Download Resume (PDF)](./assets/Karthik_Mohan_Resume.pdf)
 
 ---
 
-## 📡 Contact
+## 📫 Contact
 
-- 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)  
-- 📫 karthik@example.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)
+- 📧 karthik@example.com
 - 💻 [GitHub](https://github.com/elkarto91)
 
 ---
 
-> “We are all custodians of complexity. My job is to make the right part visible.”  
+> “We are custodians of complexity. Product is how we make it human.”
