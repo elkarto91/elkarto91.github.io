@@ -95,7 +95,6 @@ Explore my case-study-grade conceptual projects:
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)  
-- 📧   
 - 💻 [GitHub](https://github.com/elkarto91)
 
 ---
