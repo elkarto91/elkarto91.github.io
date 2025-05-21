@@ -1,0 +1,23 @@
+title: "Karthik Mohan – Product Portfolio"
+author: "Karthik Mohan"
+description: "Product strategist | Blockchain & AI | Creator of Productive Chains"
+baseurl: "" # leave blank for GitHub Pages
+url: "https://elkarto91.github.io"
+
+#theme: jekyll-theme-minimal
+
+# Optional social links
+linkedin_username: karthik-mohan
+github_username: elkarto91
+email: karthik@example.com
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Build settings
+markdown: kramdown
+#permalink: pretty
+permalink: /404.html
+
+#markdown: kramdown
+theme: null
