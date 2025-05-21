@@ -9,7 +9,7 @@ AVP – Products | MBA (AI for Business) | Blockchain & AI Strategist | Systems 
 
 *Exploring the deep space between code, people, and purpose.*
 
-![Retro Futuristic Tech Banner](./assets/retro-tech-banner.png)
+![Retro Futuristic Tech Banner](/assets/retro-tech-banner.png)
 
 ---
 
@@ -105,7 +105,6 @@ Explore my case-study-grade conceptual projects:
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)
-- 📧 karthik@example.com
 - 💻 [GitHub](https://github.com/elkarto91)
 
 ---
