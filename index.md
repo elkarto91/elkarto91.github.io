@@ -131,6 +131,7 @@ I build fantasy worlds, explore systems through storytelling, and create collabo
 | Tech Culture | Balaji · Simon Wardley · Amjad Masad  
 
 ---
+<img src="/assets/systemsignal_divider.png" alt="Section Divider" style="width: 100%; margin: 2rem 0;" />
 
 ## 📡 The Signal Library
 
