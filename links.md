@@ -49,6 +49,6 @@ title: "Links"
 
 Need strategy clarity or a product teardown?
 
-👉 [Book a 1:1 Call](/consulting)
+📅 [Book a 1:1 Call](https://calendly.com/karthiknair091/30min)
 
 ---

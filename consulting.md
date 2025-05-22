@@ -30,8 +30,7 @@ Talk through an idea, doubt, or direction that needs framing, not pitching.
 ---
 
 ## 📅 Book a 1:1 Call
-
-<iframe src="https://calendly.com/yourusername" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://calendly.com/karthiknair091/30min" width="100%" height="600" frameborder="0"></iframe>
 
 > Prefer something custom? [Email me](mailto:karthiknair091@gmail.com)
 
