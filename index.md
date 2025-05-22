@@ -79,6 +79,20 @@ Ten operating principles I’ve tested through work:
 10. **Scale = strategy × structure**
 
 [→ See Philosophy](/philosophy)
+---
+<img src="/assets/systemsignal_divider.png" alt="Section Divider" style="width: 100%; margin: 2rem 0;" />
+
+## 🧬 Explore the Signal Frameworks
+
+> “Some systems don't exist yet — but they should.  
+> Some ideas don't scale yet — but they will.”
+
+**🧭 Read the Signal Thesis**  
+→ [The System Signal Thesis](/thesis)
+
+**🏗️ Browse the Fictional Systems Lab**  
+→ [Blueprints: Imagined Systems, Real Product Thinking](/blueprints)
+
 
 ---
 <img src="/assets/systemsignal_divider.png" alt="Section Divider" style="width: 100%; margin: 2rem 0;" />
@@ -157,8 +171,8 @@ Explore writings on:
 
 My essays explore product through the lenses of systems, strategy, and storytelling.
 
-- [_From Stack to System_](https://your-notion-blog-link)  
-- [_Building FairChain_](https://your-notion-blog-link)  
+- [_From Stack to System_](https://www.notion.so/From-Code-to-Strategy-My-Journey-Building-Blockchain-Platforms-for-Enterprises-1f94f0df7c808109ae9bfaa8a75577cc?pvs=4)  
+- [_Building FairChain_](https://www.notion.so/Building-FairChain-Blockchain-Coffee-and-a-More-Equitable-World-1f94f0df7c80801899bee8fdee119501?pvs=4)  
 - [_Systems as Signals_](#) *(coming soon)*
 
 [→ See More Writing](/writing)
