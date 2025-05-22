@@ -37,7 +37,7 @@ title: "Links"
 ---
 
 ## 💼 Social + Profiles
-
+- 📨 Email: karthik@systemsignal.dev  
 - 🌐 [LinkedIn](https://linkedin.com/in/karthik-m-portfolio)
 - 💻 [GitHub](https://github.com/elkarto91)
 - 🧵 [Twitter / X](https://twitter.com/chaingopher) *(optional)*
