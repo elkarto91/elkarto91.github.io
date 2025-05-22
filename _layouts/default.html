@@ -1,12 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>{{ page.title }} – System Signal</title>
-  <link rel="stylesheet" href="/assets/css/dark.css">
-  <link rel="icon" href="/assets/favicon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Karthik Mohan is a product strategist and systems thinker. He builds blockchain, AI, and trust-first platforms that clarify complexity." />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/assets/css/dark.css" />
+  <link rel="icon" href="/assets/favicon.png" type="image/png" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="System Signal – Karthik Mohan" />
+  <meta property="og:description" content="Karthik Mohan is a product strategist and systems thinker. He builds blockchain, AI, and trust-first platforms that clarify complexity." />
+  <meta property="og:url" content="https://systemsignal.dev" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://systemsignal.dev/assets/systemsignal_retro_banner.png" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="System Signal – Karthik Mohan" />
+  <meta name="twitter:description" content="Product is where systems become human. I design clarity from complexity." />
+  <meta name="twitter:image" content="https://systemsignal.dev/assets/systemsignal_retro_banner.png" />
+
+  <!-- Author and Site Info -->
+  <meta name="author" content="Karthik Mohan" />
+  <meta name="theme-color" content="#0b0b25" />
 </head>
+
 <body>
   <div class="container">
 
@@ -24,9 +46,15 @@
     {{ content }}
 
     <hr />
-    <footer>
-      <p>© {{ 'now' | date: "%Y" }} Karthik Mohan – <a href="https://systemsignal.dev">systemsignal.dev</a></p>
+    <footer style="text-align: center; font-size: 0.9rem; margin-top: 2rem; color: #999;">
+      <p>Karthik Mohan is a product strategist and systems thinker. He builds blockchain, AI, and trust-first platforms that clarify complexity.<br>
+        AVP – Products at KrypC. Creator of <a href="/">System Signal</a>.</p>
+      <p>© {{ 'now' | date: "%Y" }} System Signal</p>
     </footer>
+    <!-- <footer>
+      <p>© {{ 'now' | date: "%Y" }} Karthik Mohan – <a href="https://systemsignal.dev">systemsignal.dev</a></p>
+      
+    </footer> -->
   </div>
 </body>
 </html>
