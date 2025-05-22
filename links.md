@@ -7,6 +7,19 @@ title: "Links"
 
 > Your map to everything I write, build, and believe.
 <img src="/assets/systemsignal_links_terminal_banner.png" alt="System Signal Links Banner" style="width: 100%; border-radius: 8px; margin-bottom: 2rem;" />
+<p style="color: #0f0; font-family: monospace; font-size: 1.25rem; background: #000; padding: 0.5rem 1rem;">
+  >> access ./systemsignal --links<span class="blinker">█</span>
+</p>
+
+<style>
+.blinker {
+  animation: blink 1s step-start infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
 
 ---
 
