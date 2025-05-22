@@ -32,7 +32,7 @@ I bring a rare combination of:
 At KrypC, I lead strategic product initiatives and cross-functional teams delivering blockchain and AI-powered platforms.
 
 - Defined 5-year product strategy aligned to $800K revenue growth  
-- Launched TaxChain, India’s first blockchain-based VAT compliance engine  
+- Launched TaxChain, Europe’s first blockchain-based VAT compliance engine  
 - Introduced OKRs and roadmap frameworks across product teams  
 - Built FairChain: a blockchain-powered transparency tool for global coffee supply chains  
 - Developed KrypC’s first AI-led invoice reconciliation engine for telecoms
@@ -68,7 +68,7 @@ Introduced prioritization frameworks and automated pipelines.
 
 **KrypC (2022–2024):**  
 Product strategist and tech leader. Designed interoperable supply chain solutions.  
-Won *Technical Innovator of the Year* and shaped Go-to-Market strategy.
+Won *Technical Innovator(Growth Booster) of the Year* and shaped Go-to-Market strategy.
 
 **KrypC (2024–Present):**  
 AVP, Products. Leading strategic delivery, scaling systems, and aligning vision to value.
@@ -104,7 +104,7 @@ AVP, Products. Leading strategic delivery, scaling systems, and aligning vision 
 
 ## 📫 Contact
 
-- ✉️ Email: karthiknair091@gmail.com  
+- ✉️ Email: karthik@systemsignal.dev  
 - 🌐 [LinkedIn](https://linkedin.com/in/karthik-m-portfolio)  
 - 💻 [GitHub](https://github.com/elkarto91)  
 - 📅 [Book a call](/contact)
@@ -113,4 +113,3 @@ AVP, Products. Leading strategic delivery, scaling systems, and aligning vision 
 
 > “I don't build products to exit — I build to exist.”  
 > System Signal is where I publish, synthesize, and practice that principle.
-
