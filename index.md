@@ -78,7 +78,7 @@ Ten operating principles I’ve tested through work:
 9. **Every system is someone’s story**
 10. **Scale = strategy × structure**
 
-[→ See Beliefs](/beliefs)
+[→ See Philosophy](/philosophy)
 
 ---
 <img src="/assets/systemsignal_divider.png" alt="Section Divider" style="width: 100%; margin: 2rem 0;" />
@@ -131,6 +131,25 @@ I build fantasy worlds, explore systems through storytelling, and create collabo
 | Tech Culture | Balaji · Simon Wardley · Amjad Masad  
 
 ---
+
+## 📡 The Signal Library
+
+> “Our worldview is shaped by what we return to, re-read, and re-reference.”
+
+**The Signal Library** is my curated knowledge shelf — a collection of the most important links, essays, papers, and thinkers I believe every technologist, strategist, or systems designer should study.
+
+It’s not a blogroll. It’s a canon-in-progress.
+
+Explore writings on:
+- Infrastructure, trust, and distributed systems
+- Product ethics and verifiability
+- Spacefaring civilizations and cybernetic governance
+- Dharmic and post-Western models of intelligence and organization
+
+[→ Browse the Library](/library)
+
+---
+
 <img src="/assets/systemsignal_divider.png" alt="Section Divider" style="width: 100%; margin: 2rem 0;" />
 
 ## ✍️ WRITING
