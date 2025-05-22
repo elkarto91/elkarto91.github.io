@@ -1,82 +1,79 @@
-# 🧑‍💼 Karthik Mohan – Personal Product Portfolio
+# 🛰️ systemsignal.dev
 
-Welcome to my personal website, powered by GitHub Pages and built using a Jekyll-based theme.
-
-🔗 Live at: [https://elkarto91.github.io](https://elkarto91.github.io)
-
----
-
-## 🎯 About This Site
-
-This is my professional homepage — a place to showcase:
-
-- ✅ Real and Conceptual Product Projects
-- 🧠 Thought leadership and blog posts
-- 📄 Resume and LinkedIn
-- 📦 GitHub repositories with full product lifecycle documents
-
-Built using a GitHub Pages Jekyll theme for speed, clarity, and version control.
+> A digital publication, portfolio, and philosophy engine by **Karthik Mohan**  
+> Product Strategist · Systems Thinker · Builder of Trust-First Technology
 
 ---
 
-## 🧱 Features
+## 🧭 About the Site
 
-| Section | Description |
-|---------|-------------|
-| 🧑‍💻 **About Me** | Short bio, photo, and contact links |
-| 🧠 **Portfolio** | Links to my concept product case studies: CityFlow, Kaya, LoopList, TrustBridge |
-| 📝 **Blog** | External link to “Productive Chains” hosted on Notion |
-| 📄 **Resume** | Option to view/download PDF resume |
-| 🔗 **GitHub** | Links to key repositories |
-| 📫 **Contact** | Email, LinkedIn, GitHub profile links |
+**System Signal** is my personal platform for exploring and publishing ideas at the intersection of:
 
----
+- Product Strategy & Systems Design  
+- Distributed Tech (Blockchain, Zero Trust, Auditable AI)  
+- Philosophy, Futurism, and Dharmic Thought  
+- Narrative Interfaces and Ethical Technology
 
-## 🚀 How It Works
-
-This site is built on:
-- **Jekyll**: Static site generator used by GitHub Pages
-- **GitHub Pages**: Hosts and serves the site at your GitHub username domain
-- **Minimal Theme**: A clean, content-focused theme with built-in responsiveness
-
-### To Customize:
-
-1. Edit `_config.yml` to update site title, description, and links
-2. Modify `index.md` to update home page content
-3. Optionally add blog posts to the `_posts/` folder
+Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https://systemsignal.dev)
 
 ---
 
-## 📂 Folder Structure
+## 🗂️ Pages & Navigation
 
+| Route | Description |
+|-------|-------------|
+| `/` | Homepage with mission, philosophy, and project links  
+| `/about` | Full professional bio & current work  
+| `/projects` | Case studies: TrustBridge, Kaya, LoopList, CityFlow  
+| `/philosophy` | My core product & systems principles  
+| `/library` | Curated digital canon of tech, ethics, and civilizational ideas  
+| `/writing` | Essays and longform reflections  
+| `/consulting` | Strategy offerings and calendar booking  
+| `/links` | Linktree-style landing page  
 
-elkarto91.github.io/
-├── index.md # Main homepage content
-├── _config.yml # Site configuration
-├── assets/ # Images, PDF resume, diagrams
-├── _posts/ # (Optional) Blog posts
-├── 404.html # Custom not-found page
-├── README.md # You're reading it
+---
+
+## 🧰 Tech Stack
+
+- **Jekyll** – static site generator  
+- **GitHub Pages** – hosting + DNS + HTTPS  
+- **Markdown** – content writing  
+- **Custom CSS** – dark theme + retro visuals  
+- **Manual SEO** – OG/Twitter cards, meta tags  
+- **Calendly Embed** – for booking consulting sessions
+
+---
+
+## 📁 Repo Structure
+
+├── index.md # Home
+├── about.md # Bio
+├── projects.md # Case studies
+├── philosophy.md # Belief system
+├── library.md # Curated references
+├── writing.md # Blog hub
+├── consulting.md # Booking services
+├── links.md # Linktree
+├── _layouts/
+│ └── default.html # Page layout with nav + footer
+├── assets/
+│ ├── css/
+│ │ └── dark.css # Custom dark theme
+│ ├── *.png # Banners & dividers
+├── CNAME # Custom domain config
+├── README.md # You are here
 
 
 
 ---
 
-## 🧰 Setup Notes
+## 📫 Contact & Credits
 
-1. Repo name **must be** `elkarto91.github.io`
-2. GitHub Pages must be enabled from **Settings → Pages → Source: main branch / root**
-3. Theme is auto-loaded from `_config.yml` – no need to install Jekyll locally
-
----
-
-## 📧 Contact
-
-- 🌐 [LinkedIn](https://linkedin.com/in/karthik-mohan)
-- 📫 karthik@example.com
-- 🧠 [Productive Chains Blog](https://notion.link)
-- 💻 [GitHub Portfolio](https://github.com/elkarto91/portfolio)
+- 🧠 Built and maintained by [@elkarto91](https://github.com/elkarto91)  
+- 🌐 Live at [systemsignal.dev](https://systemsignal.dev)  
+- 📬 Contact via [LinkedIn](https://linkedin.com/in/karthik-m-portfolio)
 
 ---
 
-> “Build systems that matter. Scale with purpose.” – Karthik Mohan
+> “Signal over noise. Story over silo. Meaning over metrics.”  
+> — [systemsignal.dev](https://systemsignal.dev)
