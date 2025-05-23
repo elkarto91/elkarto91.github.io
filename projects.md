@@ -16,3 +16,5 @@ Smart city ops dashboard for emergency coordination
 
 ### ♻️ [LoopList](https://github.com/elkarto91/portfolio/tree/main/concept-projects/looplist)  
 QR-powered product reuse and impact archive
+
+

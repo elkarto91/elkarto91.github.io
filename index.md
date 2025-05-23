@@ -109,7 +109,7 @@ Ten operating principles I’ve tested through work:
 
 ## 🛰️ Featured Project
 
-[![Operary Banner](/assets/operary/operary-banner.jpg)](/projects/operary)
+<img src="/assets/operary/operary-banner.jpg" alt="System Signal" style="width: 80%; margin: 2rem 0; border-radius: 8px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
 
 **Operary** – A coordination engine for industrial ops.  
 → [Read more](/projects/operary)

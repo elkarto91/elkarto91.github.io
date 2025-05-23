@@ -12,3 +12,7 @@ email: karthik@systemsignal.dev
 github_username: elkarto91
 linkedin_username: karthik-m-portfolio
 twitter_username: chaingopher
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
