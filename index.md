@@ -107,6 +107,13 @@ Ten operating principles I’ve tested through work:
 | Infra | Azure · GitHub Actions · Docker · Vercel  
 | Product Ops | Notion · Figma · JIRA · MoSCoW · RACI/DACI  
 
+## 🛰️ Featured Project
+
+[![Operary Banner](/assets/operary/operary-banner.png)](/projects/operary)
+
+**Operary** – A coordination engine for industrial ops.  
+→ [Read more](/projects/operary)
+
 ---
 <img src="/assets/systemsignal_divider.png" alt="Section Divider" style="width: 100%; margin: 2rem 0;" />
 
