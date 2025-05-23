@@ -112,6 +112,14 @@ Ten operating principles I’ve tested through work:
 <img src="/assets/operary/operary-banner.jpg" alt="System Signal" style="width: 80%; margin: 2rem 0; border-radius: 8px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
 
 **Operary** – A coordination engine for industrial ops.  
+💡 Core Idea
+A central coordination SaaS for operators, floor managers, energy controllers, and shift supervisors that lets them:
+
+* ✅ **Create real-time action boards** across systems and teams
+* 📡 **Ingest data** from sensors, logs, and alerts
+* 👷 **Route issues + SOPs** to the right humans
+* 📘 **Automate audit trails** and shift-based handovers
+* 🔐 **Integrate with existing MES / SCADA / CMMS systems** via API
 → [Read more](/projects/operary)
 
 ---
