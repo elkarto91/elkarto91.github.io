@@ -3,11 +3,11 @@ layout: default
 title: "About"
 ---
 
-# 👋 About Karthik Mohan
+# 👋 About Me: Karthik Mohan
 
 > “I believe product is where systems become human, and trust becomes tangible.”
 
-I’m Karthik — a systems thinker, technical product leader, and trusted builder of blockchain, AI, and cloud-first platforms. Currently AVP of Products at KrypC, I work at the convergence of emerging technologies, deep architecture, and strategic storytelling.
+I’m Karthik — a systems thinker, technical product leader, and trusted builder of blockchain, AI, and cloud-first platforms. Currently AVP of Products, I work at the convergence of emerging technologies, deep architecture, and strategic storytelling.
 
 For the past decade, I’ve scaled solutions across industries including finance, telecom, and sustainability — architecting platforms that turn chaos into clarity and data into confidence.
 
@@ -27,15 +27,15 @@ I bring a rare combination of:
 
 ---
 
-## 📈 Current Role – AVP, Products @ KrypC
+## 📈 Current Role – AVP, Products
 
-At KrypC, I lead strategic product initiatives and cross-functional teams delivering blockchain and AI-powered platforms.
+I lead strategic product initiatives and cross-functional teams delivering blockchain and AI-powered platforms.
 
 - Defined 5-year product strategy aligned to $800K revenue growth  
 - Launched TaxChain, Europe’s first blockchain-based VAT compliance engine  
 - Introduced OKRs and roadmap frameworks across product teams  
 - Built FairChain: a blockchain-powered transparency tool for global coffee supply chains  
-- Developed KrypC’s first AI-led invoice reconciliation engine for telecoms
+- Developed Company's first AI-led invoice reconciliation engine for telecoms
 
 ---
 

@@ -10,6 +10,7 @@
   <!-- Styles -->
   <link rel="stylesheet" href="/assets/css/dark.css" />
   <link rel="icon" href="/assets/favicon.png" type="image/png" />
+  <link rel="stylesheet" href="/assets/css/consulting.css">
 
   <!-- Open Graph -->
   <meta property="og:title" content="System Signal – Karthik Mohan" />
@@ -27,6 +28,10 @@
   <!-- Author and Site Info -->
   <meta name="author" content="Karthik Mohan" />
   <meta name="theme-color" content="#0b0b25" />
+
+    {% if page.title == "Writing" %}
+    <link rel="stylesheet" href="/assets/css/blog.css">
+  {% endif %}
 </head>
 
 <body>
@@ -35,11 +40,12 @@
 <nav>
   <a href="/">Home</a> |
   <a href="/about">About Me</a> |
-  <a href="/projects">Projects</a> |
+  <a href="/signalstack">Signal Stack</a> |
+  <!-- <a href="/projects">Projects</a> | -->
   <a href="/philosophy">Philosophy</a> |
   <a href="/library">Library</a> |
   <a href="/writing">Writing</a> |
-  <a href="/blueprints">Blueprints</a> |
+  <!-- <a href="/blueprints">Blueprints</a> | -->
   <a href="/thesis">Thesis</a> |
   <a href="/consulting">Consulting</a> |
   <a href="/links">Links</a>
