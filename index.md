@@ -72,7 +72,6 @@ Ten operating principles I’ve tested through work:
 9. **Every system is someone’s story**
 10. **Scale = strategy × structure**
 
-[→ See Philosophy](/philosophy)
 ---
 
 ## 🧬 Explore the Signal Frameworks

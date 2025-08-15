@@ -22,14 +22,13 @@ Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https
 
 | Route | Description |
 |-------|-------------|
-| `/` | Homepage with mission, philosophy, and project links  
-| `/about` | Full professional bio & current work  
-| `/projects` | Case studies: TrustBridge, Kaya, LoopList, CityFlow  
-| `/philosophy` | My core product & systems principles  
-| `/library` | Curated digital canon of tech, ethics, and civilizational ideas  
-| `/writing` | Essays and longform reflections  
-| `/consulting` | Strategy offerings and calendar booking  
-| `/links` | Linktree-style landing page  
+| `/` | Homepage with mission and project links
+| `/about` | Full professional bio & current work
+| `/projects` | Case studies: TrustBridge, Kaya, LoopList, CityFlow
+| `/library` | Curated digital canon of tech, ethics, and civilizational ideas
+| `/writing` | Essays and longform reflections
+| `/consulting` | Strategy offerings and calendar booking
+| `/links` | Linktree-style landing page
 
 ---
 
@@ -49,7 +48,6 @@ Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https
 ├── index.md # Home
 ├── about.md # Bio
 ├── projects.md # Case studies
-├── philosophy.md # Belief system
 ├── library.md # Curated references
 ├── writing.md # Blog hub
 ├── consulting.md # Booking services
