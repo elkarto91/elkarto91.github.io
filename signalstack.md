@@ -84,11 +84,7 @@ As we build each repo, we'll explore core architectural patterns, API gateway vs
 **Solution:** Operary is an open API + UI for programmable task assignments and immutable proof-of-work receipts.
 
 **Stack:** Go, Postgres, Hedera, Cloudflare Workers  
-**Launch:** Live at [operary.systemsignal.dev](https://operary.systemsignal.dev)
-
 → [View Code →](https://github.com/elkarto91/operary)  
-→ [Explore API →](https://operary.systemsignal.dev/docs)
-
 ---
 
 ### 🧭 **ChronoLedger**
