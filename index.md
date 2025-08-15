@@ -140,7 +140,7 @@ I build fantasy worlds, explore systems through storytelling, and create collabo
 
 | Category                               | Subcategory                            | Individuals / Works         | Key Themes                                                                                                  |
 |----------------------------------------|----------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------|
-| I. Foundations (Logic & Core Values)   | Philosophy & Values                    | Swami Vivekananda            | Self-realization, strength, practical spirituality, leveraging individual potential                         |
+| I. Foundations (Logic & Core Values)   | Values                                 | Swami Vivekananda            | Self-realization, strength, practical spirituality, leveraging individual potential                         |
 |                                        |                                        | Joe Rogan                    | Open discourse, critical inquiry, challenging norms, diverse perspectives                                   |
 |                                        | Right Libertarian Thought             | Balaji Srinivasan            | Network states, decentralization, technological sovereignty, individual agency, market solutions            |
 |                                        |                                        | Naval Ravikant               | Wealth creation, individual freedom, leveraging, first principles thinking                                  |
@@ -154,7 +154,7 @@ I build fantasy worlds, explore systems through storytelling, and create collabo
 | III. Immersive Worlds (Anime & Sci-Fi) | Action & Growth (Anime)               | Naruto                       | Willpower, perseverance, community, achieving dreams despite odds                                           |
 |                                        |                                        | Dragon Ball                  | Power, training, pushing limits, good vs. evil                                                              |
 |                                        |                                        | Beyblade                     | Strategy, competitive spirit, individual skill                                                              |
-|                                        | Philosophical Depth & Mystery (Anime) | Death Note                   | Justice, morality, power, consequences of absolute control                                                  |
+|                                        | Depth & Mystery (Anime)               | Death Note                   | Justice, morality, power, consequences of absolute control                                                  |
 |                                        |                                        | Fullmetal Alchemist          | Equivalent exchange, human nature, consequences of ambition, brotherhood                                   |
 |                                        |                                        | Attack on Titan              | Survival, freedom, societal secrets, moral ambiguity                                                        |
 |                                        |                                        | Dandadan                     | Unique blend of action, supernatural, humor, exploring unknown                                              |
@@ -163,7 +163,7 @@ I build fantasy worlds, explore systems through storytelling, and create collabo
 |                                        |                                        | Lord of the Rings            | Heroism, mythology, fellowship, sacrifice, the battle between good and evil                                 |
 |                                        |                                        | Warcraft                     | Factions, magic, honor, epic conflicts, world-building                                                      |
 |                                        |                                        | Skyrim                       | Freedom, prophecy, ancient power, immersive open world                                                      |
-|                                        | Philosophical Depth & Mystery (Film)  | Shutter Island               | Reality vs illusion, psychological trauma, perception, paranoia                                             |
+|                                        | Depth & Mystery (Film)                | Shutter Island               | Reality vs illusion, psychological trauma, perception, paranoia                                             |
 
 
 ---
