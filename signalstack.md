@@ -115,21 +115,6 @@ A programmable ledger for *time-based trust* — where value unlocks or decays b
 
 ---
 
-## 🔍 Real Projects
-
-Built with full-stack thinking — concept to commit. These aren’t just ideas. They’re functional, deployed systems where I led product design, wrote core specs, and helped ship code.
-
----
-
-### 🪙 [Operary](https://github.com/elkarto91/operary)  
-A minimal, public API to create, track, and verify task-based work on-chain.  
-→ **Focus**: Web3 design, verifiable work primitives, clean audit trails.  
-→ **Stack**: Go, Hedera, Postgres, Cloudflare Workers  
-→ **Unique Edge**: Thoughtfully small surface area with maximal trust utility  
-→ [View Site →](https://operary.systemsignal.dev)
-
----
-
 ### 🔐 [TrustBridge](https://github.com/elkarto91/portfolio/tree/main/concept-projects/trustbridge)  
 Blockchain-backed proofs for secure enterprise data transfer.  
 → **Focus**: Verifiability, audit logging, zero-trust infra.
@@ -146,38 +131,3 @@ Smart city command center for emergency coordination.
 QR-based circular economy tracker.  
 → **Focus**: Product traceability, behavioral nudges, impact loops.
 
----
-
-## 🛠️ ChronoLedger Lifecycle
-
-### 1. Conceive  
-- Problem: Value decays invisibly.  
-- Idea: Make time programmable into trust systems.
-
-### 2. Plan  
-- Persona: Civic designers, ESG teams  
-- Model: Protocol fees + TTL unlock tax
-
-### 3. Develop  
-- Stack: Solidity + Hedera  
-- Infra: Schema versioning, contract testbed
-
-### 4. Qualify  
-- Metrics: Trust decayed, TTL precision  
-- Risks: Oracles, misuse of time logic
-
-### 5. Launch  
-- Pilot: 30-day carbon amnesty citywide  
-- GTM: Smart city dashboards
-
-### 6. Maximize  
-- Integrate into contracts, alerts, UIs  
-- Timeline UX + countdowns
-
-### 7. Retire  
-- Archive TTL-ledger  
-- Generate decay metrics + audit
-
----
-
-> Want to help design or extend one of these systems? [Let’s talk →](/contact)
