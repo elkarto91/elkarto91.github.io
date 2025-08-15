@@ -20,13 +20,22 @@ Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https
 
 ## 🗂️ Pages & Navigation
 
+| Route | Description |
+|-------|-------------|
+| `/` | Homepage with mission and project links
+| `/about` | Full professional bio & current work
+| `/projects` | Case studies: TrustBridge, Kaya, LoopList, CityFlow
+| `/library` | Curated digital canon of tech, ethics, and civilizational ideas
+| `/writing` | Essays and longform reflections
+| `/consulting` | Strategy offerings and calendar booking
+| `/links` | Linktree-style landing page
+=======
 | Route | Source | Description |
 |-------|--------|-------------|
 | `/` | `index.md` | Homepage with mission, philosophy, and project links |
 | `/about` | `about.md` | Full professional bio & current work |
 | `/blueprints` | `blueprints.md` | Speculative systems and R&D lab |
 | `/projects` | `projects.md` | Case studies: TrustBridge, Kaya, LoopList, CityFlow |
-| `/philosophy` | `philosophy.md` | Core product & systems principles |
 | `/library` | `library.md` | Curated digital canon of tech, ethics, and civilizational ideas |
 | `/writing` | `writing.md` | Essays and longform reflections |
 | `/consulting` | `consulting.md` | Strategy offerings and calendar booking |
@@ -50,12 +59,19 @@ Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https
 
 ## 📁 Repo Structure
 
+├── index.md # Home
+├── about.md # Bio
+├── projects.md # Case studies
+├── library.md # Curated references
+├── writing.md # Blog hub
+├── consulting.md # Booking services
+├── links.md # Linktree
+=======
 ```text
 ├── index.md            # Home
 ├── about.md            # Bio
 ├── blueprints.md       # System blueprints
 ├── projects.md         # Case studies
-├── philosophy.md       # Belief system
 ├── library.md          # Curated references
 ├── writing.md          # Blog hub
 ├── consulting.md       # Booking services
