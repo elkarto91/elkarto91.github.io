@@ -68,13 +68,7 @@ Fictional but feasible — these are fully mapped product ideas exploring unbuil
 - **Features:** Service registry, global auth, role-based policy execution engine, Pub/Sub decision tracking, audit log collector.  
 - **Technologies:** Golang or Node.js, PostgreSQL or Redis, gRPC/REST, OpenTelemetry, JWT.  
 - **Modules:** `service-manager/`, `auth/`, `audit-collector/`, `config-center/`.  
-- **API Overview:** `POST /register`, `GET /status`, `POST /decision-log`.  
-- **Setup:**  
-  ```bash
-  git clone https://github.com/signalbuilds/neuralic-core
-  cd neuralic-core
-  docker-compose up --build
-  ```
+- **API Overview:** `POST /register`, `GET /status`, `POST /decision-log` etc.  
 
 **Our Learning Journey**
 
