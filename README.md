@@ -1,6 +1,6 @@
 # 🛰️ systemsignal.dev
 
-> A digital publication, portfolio, and philosophy engine by **Karthik Mohan**
+> A digital publication and portfolio by **Karthik Mohan**
 > Product Strategist · Systems Thinker · Builder of Trust-First Technology
 
 ---
@@ -11,7 +11,7 @@
 
 - Product Strategy & Systems Design
 - Distributed Tech (Blockchain, Zero Trust, Auditable AI)
-- Philosophy, Futurism, and Dharmic Thought
+- Futurism and Dharmic Thought
 - Narrative Interfaces and Ethical Technology
 
 Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https://systemsignal.dev).
@@ -32,7 +32,7 @@ Built with **Jekyll + GitHub Pages**. Hosted at [https://systemsignal.dev](https
 =======
 | Route | Source | Description |
 |-------|--------|-------------|
-| `/` | `index.md` | Homepage with mission, philosophy, and project links |
+| `/` | `index.md` | Homepage with mission and project links |
 | `/about` | `about.md` | Full professional bio & current work |
 | `/blueprints` | `blueprints.md` | Speculative systems and R&D lab |
 | `/projects` | `projects.md` | Case studies: TrustBridge, Kaya, LoopList, CityFlow |

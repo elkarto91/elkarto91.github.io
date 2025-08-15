@@ -34,7 +34,7 @@ This site is here to do two things:
 
 It’s my portfolio as a product strategist, a playground for system design, and a public journal for those trying to build things that matter.
 
-If you're a founder, engineer, PM, or philosopher-engineer hybrid — you're in the right room.
+If you're a founder, engineer, or PM — you're in the right room.
 
 ---
 
@@ -50,7 +50,7 @@ In this world, the next generation of builders must:
 - Design **systems that remember**
 - Build **products that prove**
 - Create **interfaces that teach**
-- Lead with **philosophy, not just metrics**
+- Lead with **meaning, not just metrics**
 
 ---
 
@@ -87,7 +87,7 @@ A world of:
 - Systems that don’t forget  
 - AI that can be audited  
 - Products that slow down to be clear  
-- Teams that think like philosophers  
+- Teams that think deeply
 - Interfaces that honor silence, ambiguity, grief, and time
 
 ---
