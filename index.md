@@ -30,7 +30,7 @@ It is less a blog, more a **working notebook** — where essays, case studies, a
 Recent work includes **enterprise-grade platforms** for payments, tax compliance, governance, and telecom — alongside conceptual explorations of systems that *could* exist.  
 
 ### 🚀 Enterprise Platforms
-- **KrypCore** – Stablecoin payment rails on zkSync with compliance, liquidity, and partner onboarding  
+- **Stablepay** – Stablecoin payment rails on zkSync with compliance, liquidity, and partner onboarding  
 - **TaxChain / PID** – Blockchain-based VAT compliance (in collaboration with European tax authorities)  
 - **Neuralic** – AI governance and reasoning layer for explainability and audit trails  
 - **Telecom CDR Settlement** – Hedera-powered reconciliation and mediation for multi-operator roaming  

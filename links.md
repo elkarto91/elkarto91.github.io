@@ -3,52 +3,45 @@ layout: default
 title: "Links"
 ---
 
-# 🔗 System Signal Links
+# 🔗 Links Hub
 
-> Your map to everything I write, build, and believe.
-<img src="/assets/systemsignal_links_terminal_banner.png" alt="System Signal Links Banner" style="width: 100%; border-radius: 8px; margin-bottom: 2rem;" />
-<p style="color: #0f0; font-family: monospace; font-size: 1.25rem; background: #000; padding: 0.5rem 1rem;">
-  >> access ./systemsignal --links<span class="blinker">█</span>
-</p>
-
-<style>
-.blinker {
-  animation: blink 1s step-start infinite;
-}
-
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
+> *“One place for all the ways to connect with my work.”*
 
 ---
 
-## 📍 Quick Access
+## 🌐 Profiles
 
-- 🏠 [Home](/)
-- 🧠 [System Signal Thesis](/thesis)
-- 🏗️ [Blueprints Lab](/blueprints)
-- 📚 [Library – Curated Knowledge](/library)
-- ✍️ [Writing & Essays](/writing)
-- 👤 [About Me](/about)
-- 📄 [Resume (PDF)](/assets/Karthik_Mohan_Resume.pdf)
-- 🧠 [Consulting & Strategy Calls](/consulting)
+- 🛰️ **Website** → [systemsignal.dev](https://systemsignal.dev/)  
+- 💼 **LinkedIn** → [linkedin.com/in/karthik-m-portfolio](https://www.linkedin.com/in/karthik-m-portfolio/)  
+- 💻 **GitHub** → [github.com/elkarto91](https://github.com/elkarto91)  
+- 🧵 **Twitter / X** → [@chaingopher](https://twitter.com/chaingopher)  
 
 ---
 
-## 💼 Social + Profiles
-- 📨 Email: karthik@systemsignal.dev  
-- 🌐 [LinkedIn](https://linkedin.com/in/karthik-m-portfolio)
-- 💻 [GitHub](https://github.com/elkarto91)
-- 🧵 [Twitter / X](https://twitter.com/chaingopher) *(optional)*
-- 🔗 [Notion Blog](https://www.notion.so/System-Signal-Blog-1f94f0df7c80805887aedcb1dc6aa810)
+## 📄 Key Documents
+
+- 📑 **Portfolio Deck (PDF)** → [Download here](/assets/KarthikMohan_PortfolioDeck.pdf)  
+- 📝 **Resume (Latest)** → [Download here](/assets/KarthikMohan_Resume.pdf)  
+
+*(Update these links to point to your hosted assets on GitHub Pages or Drive.)*  
 
 ---
 
-## 📅 Book a Session
+## 📚 Featured Pages
 
-Need strategy clarity or a product teardown?
-
-📅 [Book a 1:1 Call](https://calendly.com/karthiknair091/30min)
+- 📡 [The System Signal Thesis](/thesis)  
+- 🧠 [Signal Stack: Case Studies](/signalstack)  
+- 🏗️ [Blueprints: Fictional but Feasible Systems](/blueprints)  
+- ✍️ [Writing: Essays & Explorations](/writing)  
+- 🧭 [Philosophy: Principles Handbook](/philosophy)  
 
 ---
+
+## 🗓️ Contact & Calls
+
+- ✉️ **Email** → [karthik@systemsignal.dev](mailto:karthik@systemsignal.dev)  
+- 📅 **Book a Call** → [Calendly Link](https://calendly.com/your-link)  
+
+---
+
+> *“If you only land on this page, you should still find the full signal.”*

@@ -3,13 +3,13 @@ layout: default
 title: "About"
 ---
 
-# 👋 About Karthik Mohan
+# 👋 About Karthik
 
 > *“Where enterprise architecture meets product strategy, systems scale with clarity.”*
 
 With more than a decade of experience at the intersection of **system design, enterprise architecture, and product management**, I focus on building platforms where **trust is measurable, architecture is intentional, and business strategy aligns with technology execution**.  
 
-My work has spanned **finance, telecom, supply chain, and sustainability**, with solutions deployed for organizations such as **Siemens, Henkel, and Tata Communications**. Today, as **Assistant Vice President of Products at KrypC**, I drive enterprise product strategy and architecture governance across a portfolio of blockchain and AI-enabled platforms.
+My work has spanned **finance, telecom, supply chain, and sustainability**, with solutions deployed for organizations such as **Siemens, Henkel, and Tata Communications**. Today, as **Assistant Vice President of Products at a Startup**, I drive enterprise product strategy and architecture governance across a portfolio of blockchain and AI-enabled platforms.
 
 ---
 
@@ -27,9 +27,9 @@ I operate at the convergence of **enterprise architecture frameworks and product
 
 ---
 
-## 📈 Current Role – AVP, Products (KrypC)
+## 📈 Current Role – AVP, Products -KrypC
 
-At KrypC, I lead **enterprise product strategy, system architecture, and cross-functional delivery**.  
+At our Startup, I lead **enterprise product strategy, system architecture, and cross-functional delivery**.  
 
 Key outcomes:  
 - Defined a **5-year enterprise architecture roadmap** aligned with ~$800K new revenue growth  
@@ -78,7 +78,7 @@ Key outcomes:
 - *Excellence in Service Delivery* – IBM (2017)  
 - *Linux Foundation Developer Showcase* – Hyperledger (2021)  
 - *Best Blockchain Implementation (Tax Domain)* – European Tax Summit (2022)  
-- *Technical Innovator of the Year* – KrypC (2023)  
+- *Technical Innovator of the Year* –  (2023)  
 
 ---
 

@@ -146,8 +146,6 @@ An API-first engine for industrial teams.
 - Stack: Go · MongoDB · OpenAPI · Docker  
 - Features: Task orchestration, shift lifecycle logs, immutable audit trails  
 - Value: Traceability + verifiability in frontline operations  
-- Status: Live MVP → [operary.systemsignal.dev](https://operary.systemsignal.dev)  
-
 ---
 
 ## 🏗️ Concept Experiments
