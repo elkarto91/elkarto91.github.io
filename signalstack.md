@@ -4,6 +4,8 @@ title: "Signal Stack"
 ---
 
 # 🧠 Signal Stack
+<img src="/assets/SystemSignalLogo.png" alt="System Signal Logo" style="width: 100%; max-width: 600px; display: block; margin: 2rem auto; border-radius: 12px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+
 
 > *“A portfolio of systems — real, independent, and enterprise-grade — where architecture meets execution.”*
 
