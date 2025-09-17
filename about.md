@@ -3,113 +3,101 @@ layout: default
 title: "About"
 ---
 
-# 👋 About Me: Karthik Mohan
+# 👋 About Karthik Mohan
 
-> “I believe product is where systems become human, and trust becomes tangible.”
+> *“Where enterprise architecture meets product strategy, systems scale with clarity.”*
 
-I’m Karthik — a systems thinker, technical product leader, and trusted builder of blockchain, AI, and cloud-first platforms. Currently AVP of Products, I work at the convergence of emerging technologies, deep architecture, and strategic storytelling.
+With more than a decade of experience at the intersection of **system design, enterprise architecture, and product management**, I focus on building platforms where **trust is measurable, architecture is intentional, and business strategy aligns with technology execution**.  
 
-For the past decade, I’ve scaled solutions across industries including finance, telecom, and sustainability — architecting platforms that turn chaos into clarity and data into confidence.
+My work has spanned **finance, telecom, supply chain, and sustainability**, with solutions deployed for organizations such as **Siemens, Henkel, and Tata Communications**. Today, as **Assistant Vice President of Products at KrypC**, I drive enterprise product strategy and architecture governance across a portfolio of blockchain and AI-enabled platforms.
 
 ---
 
 ## 🧭 Professional Identity
 
-I bring a rare combination of:
-- 10+ years of enterprise product leadership and system architecture  
-- Expertise in distributed systems, blockchain, and AI/ML integration  
-- Deep experience across every product lifecycle phase — from strategy to EOL  
-- Structured product management frameworks: MoSCoW, RICE, JTBD, OKRs  
-- Hands-on engineering background with Go, Hyperledger, Hedera, AWS, Azure
+I operate at the convergence of **enterprise architecture frameworks and product delivery**:  
 
-📌 Member, **The Institution of Engineers (India)** – Computer Engineering Division  
-📘 MBA in AI for Business – BITS Pilani (in progress)
+- **Enterprise Architecture** – Experienced in **TOGAF principles**, ArchiMate modeling, and **LeanIX** for portfolio and capability governance. Skilled at creating architecture roadmaps, ensuring alignment between **business, application, data, and technology layers**.  
+- **Product Leadership** – End-to-end lifecycle management with OKRs, KPIs, JTBD, and roadmap frameworks. Expertise in shaping product portfolios and guiding strategy through measurable outcomes.  
+- **Systems & Platforms** – Hands-on expertise in **blockchain, AI/ML, and distributed systems**, combined with architecture-first practices for resilience and scale.  
+- **Cloud & DevOps** – Multi-cloud strategy (Azure, AWS) with Kubernetes, Docker, Terraform, CI/CD, observability.  
 
----
-
-## 📈 Current Role – AVP, Products
-
-I lead strategic product initiatives and cross-functional teams delivering blockchain and AI-powered platforms.
-
-- Defined 5-year product strategy aligned to $800K revenue growth  
-- Launched TaxChain, Europe’s first blockchain-based VAT compliance engine  
-- Introduced OKRs and roadmap frameworks across product teams  
-- Built FairChain: a blockchain-powered transparency tool for global coffee supply chains  
-- Developed Company's first AI-led invoice reconciliation engine for telecoms
+📘 Currently pursuing **MBA in AI for Business** – BITS Pilani (2025–2027)  
+📌 Member, **Institution of Engineers (India)** – Computer Engineering Division  
 
 ---
 
-## 🧠 Domains I Operate In
+## 📈 Current Role – AVP, Products (KrypC)
+
+At KrypC, I lead **enterprise product strategy, system architecture, and cross-functional delivery**.  
+
+Key outcomes:  
+- Defined a **5-year enterprise architecture roadmap** aligned with ~$800K new revenue growth  
+- Introduced **OKRs and LeanIX governance practices** to bring visibility across product portfolios  
+- Oversaw **TaxChain/PID**, Europe’s first blockchain-based VAT compliance platform, reducing fraud by 87%  
+- Delivered **Telecom CDR Reconciliation**, combining AI anomaly detection + blockchain auditability, cutting OPEX by 60%  
+- Spearheaded **StablePay**, a compliance-first cross-border stablecoin payment pilot  
+- Conceptualized and architected **Neuralic**, an AI governance and explainability layer for enterprise adoption  
+
+---
+
+## 🧠 Domains of Operation
 
 | Domain | Focus |
 |--------|-------|
-| **Product Strategy** | Systems framing, product vision, Go-to-Market, business models  
-| **Blockchain Engineering** | Hyperledger Fabric, Ethereum, Hedera, Smart Contracts  
-| **AI/ML Applications** | Generative AI, document automation, ethical AI design  
-| **Distributed Systems** | Data lineage, auditability, consensus, system trust  
-| **Cloud & DevOps** | Azure, AWS, Docker, Kubernetes, CI/CD pipelines  
-| **UX-Infra Bridging** | API architecture, system modeling, proof of trust
+| **Enterprise Architecture** | TOGAF, LeanIX, ArchiMate, Wardley Maps, capability & portfolio governance |
+| **Product Strategy** | Roadmaps, GTM models, OKRs/KPIs, strategic frameworks |
+| **Blockchain Systems** | Hyperledger Fabric, Hedera, Ethereum, zkSync |
+| **AI/ML Applications** | Generative AI, anomaly detection, explainability |
+| **Distributed Systems** | Data lineage, auditability, consensus models |
+| **Cloud & DevOps** | Azure, AWS, Docker, Kubernetes, CI/CD pipelines |
 
 ---
 
-## 🎓 Career Evolution
+## 📜 Career Evolution
 
-**IBM (2015–2018):**  
-Built foundations in enterprise systems, automation, cloud integration.  
-Awarded *Excellence in Service Delivery* for SLA consistency.
+- **IBM (2015–2018)** – *Technical Analyst*  
+  Delivered cloud automation, hybrid integration. Recognized with *Excellence in Service Delivery Award*.  
 
-**KrypC (2018–2020):**  
-Pioneered blockchain R&D, designed smart contracts and led POC initiatives.  
-Recognized in the Linux Foundation Developer Showcase.
+- **KrypC (2018–2020)** – *Blockchain Developer*  
+  Prototyped enterprise blockchain systems; featured in *Linux Foundation Developer Showcase*.  
 
-**KrypC (2020–2022):**  
-Senior Engineer and Tech Lead. Architected large-scale systems.  
-Introduced prioritization frameworks and automated pipelines.
+- **KrypC (2020–2022)** – *Senior Engineer*  
+  Architected scalable backend systems, introduced CI/CD + Terraform pipelines (3× deployment frequency).  
 
-**KrypC (2022–2024):**  
-Product strategist and tech leader. Designed interoperable supply chain solutions.  
-Won *Technical Innovator(Growth Booster) of the Year* and shaped Go-to-Market strategy.
+- **KrypC (2022–2024)** – *Technical Lead & Product Manager*  
+  Dual role: drove **architecture governance with LeanIX** and introduced TOGAF-inspired roadmaps. Shaped strategy for TaxChain, UEI (energy traceability), and decentralized identity.  
 
-**KrypC (2024–Present):**  
-AVP, Products. Leading strategic delivery, scaling systems, and aligning vision to value.
+- **KrypC (2024–Present)** – *AVP, Products*  
+  Leading portfolio-wide enterprise architecture + product strategy, aligning business vision with execution. Awarded *Technical Innovator of the Year (2023)*.  
 
 ---
 
-## 🧩 Key Frameworks I Use
+## 🏆 Awards & Recognition
 
-- **Porter's Five Forces**, **PESTEL**, **Ansoff Matrix** for market + strategy  
-- **MoSCoW**, **RICE**, **Kano Model**, **Opportunity Scoring** for prioritization  
-- **Dual-Track Agile**, **JTBD**, **Impact Mapping**, **Lean Product** for discovery + delivery  
-- **AARRR**, **HEART**, **OKRs**, **North Star Metric** for analytics
-
----
-
-## 🏆 Recognitions
-
-- 🏅 *Linux Foundation Developer Showcase*  
-- 🏆 *Technical Innovator of the Year* (KrypC)  
-- 🥇 *Best Blockchain Implementation in Tax Domain* – European Tax Summit  
-- 🎖️ *Excellence in Service Delivery* – IBM
+- *Excellence in Service Delivery* – IBM (2017)  
+- *Linux Foundation Developer Showcase* – Hyperledger (2021)  
+- *Best Blockchain Implementation (Tax Domain)* – European Tax Summit (2022)  
+- *Technical Innovator of the Year* – KrypC (2023)  
 
 ---
 
-## 🧠 Ongoing Focus
+## 📚 Beyond Work
 
-- Completing MBA in AI for Business (BITS Pilani – 2025–2027)  
-- Mentoring product and engineering teams in cross-functional leadership  
-- Researching GenAI applications for verifiability and audit trails  
-- Publishing essays on systems strategy and product integrity
+I write essays and frameworks on **enterprise architecture, AI governance, and product strategy** through [System Signal](https://systemsignal.dev/). I also contribute to open source with projects like **Neuralic** (AI governance) and **Operary** (industrial coordination).  
+
+Beyond technology, I explore **speculative systems writing** (BrahmaScript, Māyāforge), mentor engineers and PMs, and engage in systems philosophy as part of my **Signal Library**.  
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
-- ✉️ Email: karthik@systemsignal.dev  
-- 🌐 [LinkedIn](https://linkedin.com/in/karthik-m-portfolio)  
+- 🌐 [Website](https://systemsignal.dev/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-m-portfolio/)  
 - 💻 [GitHub](https://github.com/elkarto91)  
-- 📅 [Book a call](/contact)
+- 🧵 [Twitter / X](https://twitter.com/chaingopher)  
+- ✉️ [Email](mailto:karthik@systemsignal.dev)
 
 ---
 
-> “I don't build products to exit — I build to exist.”  
-> System Signal is where I publish, synthesize, and practice that principle.
+> *“I don’t just build products — I architect systems that endure, govern, and scale.”*

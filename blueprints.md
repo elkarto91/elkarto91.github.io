@@ -7,65 +7,131 @@ title: "Blueprints"
 
 > *“Not every system exists. But the ones that should, deserve real design.”*
 
-<img src="/assets/systemsignal_blueprints_banner.png" alt="System Blueprints Banner" style="width: 100%; border-radius: 8px; margin-bottom: 2rem;" />
-
-This page is my **imaginative R&D lab** — a place to explore systems that could exist, should exist, and might reshape industries if designed with enough clarity, ethics, and boldness.
-
-Each blueprint below includes:
-- 🌐 The Vision & World it fits into  
-- 📐 The Architecture  
-- 🧠 Product Management lifecycle (from Conceive → Retire)  
-- 📊 Frameworks used (RACI, MoSCoW, PRD, EOL, etc.)  
-- ⚖️ Ethical, Civic, or Technical dilemmas considered
+The **Blueprints Lab** is where I explore **fictional and independent systems**.  
+Each blueprint is documented as if it were an enterprise product:  
+- **Vision & Use Cases**  
+- **Enterprise Architecture Lens (TOGAF)**  
+- **Product Lifecycle (ADM-inspired)**  
+- **Development & Module Plan**  
 
 ---
 
-## 🧭 Blueprint 01: **ChronoLedger**
+## 🧭 Blueprint 01: ChronoLedger  
+*A programmable ledger for time-based trust — where value unlocks, decays, or expires based on verified timelines.*
 
-> A programmable ledger for *time-based trust* — where systems track, unlock, or expire value based on verified timelines.
+### 🔹 Vision & Use Cases
+- Energy credits that expire after non-use  
+- Digital grants (e.g., grief support) that fade gradually  
+- Probation periods with time-limited conditions  
+- Civic amnesty protocols with automatic expiry  
 
-**Use Cases:**
-- Energy credits that decay after non-use  
-- Digital grief support grants that expire gradually  
-- Blockchain-based probation periods in community platforms  
-- Time-bound civic grace periods or amnesty protocols
+### 🔹 Enterprise Architecture (EA Lens)
+- **Business Layer**: Enable temporal trust in compliance + finance  
+- **Application Layer**: Smart contracts, policy dashboards  
+- **Data Layer**: TTL-stamped ledger entries, audit trails  
+- **Technology Layer**: Hedera · Solidity · Oracles  
 
-[→ View Full Product Lifecycle →](#chronoledger)
+### 🔹 Product Lifecycle
+1. **Conceive** – Time as a dimension of trust  
+2. **Plan** – Civic designers, ESG officers as stakeholders  
+3. **Develop** – Solidity contracts + oracle sync  
+4. **Qualify** – KPIs: % expired vs. renewed value  
+5. **Launch** – Pilot: 30-day carbon amnesty  
+6. **Maximize** – Integrations with ERP/legal/UX  
+7. **Retire** – Archive decayed trust states  
 
----
-
-## 🛠️ ChronoLedger – Full Product Lifecycle
-
-### 🔹 1. Conceive
-- Problem: Value decays. Systems forget. Trust is assumed static.
-- Opportunity: Build programmable time logic into product architectures.
-
-### 🔹 2. Plan
-- Personas: Civic designers, platform policy owners, ESG officers
-- Business Model: Protocol fees for rule execution + value recovery
-
-### 🔹 3. Develop
-- Stack: Solidity + Hedera for low-cost stable execution
-- DevOps: Smart contract testbed + schema versioning
-
-### 🔹 4. Qualify
-- KPI: Value locked, value expired, time-accurate executions
-- Risk: Misaligned TTLs; trust placed in oracles
-
-### 🔹 5. Launch
-- Pilot: Municipal carbon amnesty protocol (30 days)
-- GTM: Partner with smart city and ESG dashboards
-
-### 🔹 6. Maximize
-- Integrate with calendars, legal contracts, email
-- Layer on UX for countdowns, timelines, grace alerts
-
-### 🔹 7. Retire
-- Archive TTL analytics; extract decayed trust states
-- Convert insights to temporal audit trail for other ledgers
+### 🔹 Module Plan
+- Contracts · Oracles · Dashboards · Audit & Archive · ERP APIs  
 
 ---
 
-> Want to help design a fictional system? [Email me](mailto:karthik@systemsignal.dev)
+## 🧭 Blueprint 02: Neuralic  
+*A modular platform for AI governance, explainability, and traceability.*  
+
+### 🔹 Vision & Use Cases
+- Enterprise AI adoption with **auditability + compliance alignment**  
+- Regulatory reporting for **AI decisions + lineage**  
+- Governance for **model drift, policy versions, and explainability**  
+
+### 🔹 Enterprise Architecture (EA Lens)
+- **Business Layer**: Compliance, risk officers, CIOs ensuring ethical AI adoption  
+- **Application Layer**: Policy store, lineage tracker, explainability dashboards  
+- **Data Layer**: Model metadata, decision logs, drift metrics  
+- **Technology Layer**: Go · Python · Postgres · LangChain · Cloud AI services  
+
+### 🔹 Product Lifecycle
+1. **Conceive** – Lack of AI audit trails creates compliance risk  
+2. **Plan** – Stakeholders: compliance + IT governance; LeanIX portfolio of AI services  
+3. **Develop** – Modular stack (Neuralic.Core, Neuralic.Trace, Neuralic.Engine)  
+4. **Qualify** – KPIs: % explainable models, coverage ratio; OKR: “100% lineage tracking by Q4”  
+5. **Launch** – Open-sourced under *SignalBuilds* + templates published  
+6. **Maximize** – Cloud integrations (Azure AI, AWS Sagemaker)  
+7. **Retire** – Archive explainability logs; publish governance playbook  
+
+### 🔹 Module Plan
+- **Core**: Policy + rules engine  
+- **Trace**: Lineage + decision logs  
+- **Engine**: Explainability APIs  
+- **Risk**: Drift detection + alerts  
+- **Integration**: Cloud AI connectors + ERP hooks  
 
 ---
+
+## 🧭 Blueprint 03: Operary  
+*An industrial coordination engine for frontline shift-based execution.*  
+
+### 🔹 Vision & Use Cases
+- Factory + logistics teams need **verifiable task orchestration**  
+- Shift lifecycle logs for **handover + compliance**  
+- Immutable audit trails for **safety, uptime, and accountability**  
+
+### 🔹 Enterprise Architecture (EA Lens)
+- **Business Layer**: Manufacturing ops, shift supervisors, compliance teams  
+- **Application Layer**: Task API, Shift API, Audit dashboards  
+- **Data Layer**: Immutable logs, uptime metrics, event streams  
+- **Technology Layer**: Go backend · MongoDB · OpenAPI · Dockerized infra  
+
+### 🔹 Product Lifecycle
+1. **Conceive** – Industrial work is unverifiable + siloed  
+2. **Plan** – Personas: ops managers, regulators; LeanIX: APM of factory IT apps  
+3. **Develop** – APIs for tasks, shifts, audits; Zap logger for immutability  
+4. **Qualify** – KPIs: task completion traceability, uptime %  
+5. **Launch** – MVP live at [operary.systemsignal.dev](https://operary.systemsignal.dev)  
+6. **Maximize** – Integration with MES/SCADA/ERP systems  
+7. **Retire** – Archive shift logs; export compliance datasets  
+
+### 🔹 Module Plan
+- **Tasks Module** – Create, assign, verify  
+- **Shift Module** – Start/close blocks, lifecycle mgmt  
+- **Audit Module** – Immutable trace logs  
+- **Metrics Module** – Prometheus-ready uptime + counts  
+- **Integration Module** – MES/ERP APIs  
+
+---
+
+## 🧭 Blueprint 04: Māyāforge *(Stub for Expansion)*  
+*A post-mythical artifact economy for governance + resource allocation.*  
+
+(To be expanded in next iteration with full lifecycle + modules)  
+
+---
+
+## 🧭 Blueprint 05: BrahmaScript *(Stub for Expansion)*  
+*A recursive mythos encoding memory and relics into systems.*  
+
+(To be expanded in next iteration with full lifecycle + modules)  
+
+---
+
+## 📚 Methodology
+
+All blueprints use:  
+- **TOGAF ADM** → lifecycle framing  
+- **LeanIX** → portfolio + risk governance  
+- **ArchiMate** → business/application/data/tech views  
+- **KPIs/OKRs** → measurable clarity  
+- **Modular Plans** → services, APIs, integrations  
+
+---
+
+> *“Blueprints are not fantasies. They are future systems — drafted with today’s architecture.”*

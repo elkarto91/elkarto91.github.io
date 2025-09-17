@@ -3,83 +3,69 @@ layout: default
 title: "Consulting"
 ---
 
-<link rel="stylesheet" href="/assets/css/consulting.css">
+# 🧩 Consulting
 
-# 🧠 Strategy & Product Consulting
+> *“I don’t just design systems — I help organizations align architecture, governance, and product strategy for measurable scale.”*
 
-> *"The role of a strategist isn’t just to plan — it’s to clarify the system."*
-
-I help founders, product leaders, and architects navigate deep product questions.  
-From design to trust, from architecture to clarity — I bring full-stack thinking to the table.
+The **Consulting Practice of System Signal** is focused on **enterprise clarity**.  
+I offer a mix of **advisory, workshops, and frameworks** that help organizations bridge **system design, enterprise architecture, and product leadership**.  
 
 ---
 
-## 🔧 Services
+## 🚀 Focus Areas
 
-<div class="service-card">
-  <h3>🚀 Product Strategy Deep Dive (60 min)</h3>
-  Unpack your roadmap, architecture, and growth stack.<br>
-  <strong>Best for:</strong> PMs, Founders, Heads of Product
-</div>
-
-<div class="service-card">
-  <h3>🧭 Systems & Platform Advisory (90 min)</h3>
-  Navigate trust systems, traceability, zero-trust infra, and AI+blockchain fitment.<br>
-  <strong>Best for:</strong> Platforms, protocols, civic tools
-</div>
-
-<div class="service-card">
-  <h3>🕊️ Quiet Problem Space (30 min)</h3>
-  A space for ideas and dilemmas that don’t need slides — just signal.<br>
-  <strong>Best for:</strong> Builders, thinkers, early-stage doubt-settlers
-</div>
-
-<div class="service-card">
-  <h3>📦 Blockchain Use Case Design & Fitment</h3>
-  Identify whether blockchain adds trust, traceability, or just noise.  
-  Technical + ethical guidance — no hype.<br>
-  <strong>Use:</strong> Token models, audit trails, consortium logic
-</div>
-
-<div class="service-card">
-  <h3>🎙️ Web3, Product & Systems Speaking</h3>
-  Talks & workshops on decentralized product thinking, systems ethics, and building trustable tech.<br>
-  <strong>Audience:</strong> Builders, policy teams, civic orgs
-</div>
-
-<div class="service-card">
-  <h3>📐 Product Architecture & Lifecycle Mapping</h3>
-  Define your system from conception to deprecation. Apply PRDs, RACI, EOL, versioning.<br>
-  <strong>Edge:</strong> Strategy tied to code reality
-</div>
+### 1. Enterprise Architecture Advisory
+- **TOGAF-inspired architecture roadmaps** → from vision to retirement  
+- **LeanIX governance** → portfolio mapping, capability alignment, risk dashboards  
+- **ArchiMate modeling** → business, application, data, and technology layers  
+- Architecture reviews → aligning enterprise strategy with IT execution  
 
 ---
 
-## 📅 Book a 1:1 Call
-
-<iframe src="https://calendly.com/karthiknair091/30min" width="100%" height="600" frameborder="0"></iframe>
-
-> Prefer a custom engagement or want team-level support? [Email me](mailto:karthiknair091@gmail.com)
-
----
-
-## 💼 Engagement Highlights
-
-- Trust-verifiable systems for tax and telecom at global scale  
-- Grief-aware AI companions and circular economy trackers  
-- Product mentoring across Europe, India, and GCC  
-- Real-world Web3 deployments with provable trust layers
+### 2. Product Strategy & Leadership
+- **OKR & KPI design** → aligning product delivery with enterprise outcomes  
+- **Portfolio management** → rationalizing products and roadmaps  
+- **Product lifecycle frameworks** → dual-track agile, JTBD, impact mapping  
+- **Governance playbooks** → integrating architecture and product reviews  
 
 ---
 
-## 🎯 Who I Work With
-
-- Founders scaling too fast to see clearly  
-- PMs caught between roadmap and architecture  
-- Web3 and civic teams solving for **trust**, not just features  
-- Builders at the edge of ethics, AI, and systems design
+### 3. Systems & Trust Design
+- **Blockchain advisory** → auditability, lineage, compliance platforms  
+- **AI governance frameworks** → explainability, policy stores, regulator alignment  
+- **Distributed systems** → mediation, reconciliation, trust infrastructure  
+- **Security posture reviews** → zero-trust flows, RBAC, compliance-first APIs  
 
 ---
 
-> **System Signal** is not an agency.  
-It’s a product strategist’s signal — for teams building long-term systems.
+## 📚 Formats
+
+- **Advisory Sessions** – 1:1 or team consulting on enterprise/product challenges  
+- **Workshops** – Hands-on sessions on TOGAF, LeanIX, OKRs, and scaling frameworks  
+- **Audits** – Product, architecture, or governance health checks  
+- **Playbooks & Templates** – Custom frameworks for repeatable clarity  
+
+---
+
+## 🧭 Example Engagements
+
+- Defined a **5-year architecture roadmap** aligning ~$800K revenue growth  
+- Introduced **OKR frameworks** that aligned engineering with product vision  
+- Guided the launch of a **compliance-first blockchain tax platform** (fraud reduced by 87%)  
+- Designed **AI governance templates** (auditability + explainability) for enterprises adopting LLMs  
+- Delivered **telecom reconciliation architecture** that cut OPEX by 60%  
+
+---
+
+## 📫 Get in Touch
+
+- 🌐 [Website](https://systemsignal.dev/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-m-portfolio/)  
+- 💻 [GitHub](https://github.com/elkarto91)  
+- 🧵 [Twitter / X](https://twitter.com/chaingopher)  
+- ✉️ [Email](mailto:karthik@systemsignal.dev)  
+
+---
+
+> *“Consulting isn’t about slides.  
+It’s about frameworks that scale, governance that endures, and systems that prove their trust.”*

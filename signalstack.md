@@ -5,118 +5,177 @@ title: "Signal Stack"
 
 # 🧠 Signal Stack
 
-> Where systems are imagined and built.  
-> Part playground, part lab — this is where I test product principles, ethical frameworks, and architectural clarity across both speculative and shipped systems.
+> *“A portfolio of systems — real, independent, and enterprise-grade — where architecture meets execution.”*
+
+The **Signal Stack** is my deep lab: a space for **enterprise case studies, independent platforms, and fictional prototypes**.  
+Here, I document **lifecycles, architectural frameworks, and governance models** — blending **TOGAF, LeanIX, and product strategy** into practice.
 
 ---
 
-<img src="/assets/systemsignal_blueprints_banner.png" alt="Blueprints Banner" style="width: 100%; border-radius: 8px; margin-bottom: 2rem;" />
+## 🚀 Enterprise Case Studies
 
-## 🏗️ System Blueprints
+### 📑 EU VAT Compliance Engine  
+A blockchain-powered VAT compliance system ensuring proof of delivery across EU borders.  
 
-> *Not every system exists. But the ones that should, deserve real design.*
+- **Architecture Lens (TOGAF/LeanIX)**  
+  - Business: Compliance reporting, fraud reduction  
+  - Application: ERP integration (mock SAP flows)  
+  - Data: Delivery evidence, digital signatures  
+  - Technology: Blockchain receipts, API gateway  
 
-Fictional but feasible — these are fully mapped product ideas exploring unbuilt possibilities. Each one is built with real-world thinking: from lifecycle to dilemmas.
-
----
-
-### 🧭 **ChronoLedger**  
-A programmable ledger for *time-based trust* — where value unlocks or decays based on verified timelines.
-
-**Use Cases:**
-- Energy credits that expire  
-- Grief grants that fade gradually  
-- Probation periods on social platforms  
-- Amnesty zones in civic governance
-
-**Lifecycle Summary:**  
-- **Stack:** Solidity + Hedera  
-- **GTM:** ESG dashboards + municipal partners  
-- **Frameworks:** RACI, PRD, EOL  
-- **Challenge:** Oracles, TTL misalignment  
-[→ Full Lifecycle](#chronoledger-lifecycle)
-
+- **Outcome**  
+  → Reduced VAT fraud by >80%  
+  → Recognized at European Tax Summit  
 
 ---
 
-## 🪙 Operary
+### 📡 Telecom Reconciliation Platform  
+Settlement engine for roaming operators, processing billions of CDRs.  
 
-> *A minimal trust layer for verifiable work.*
+#### TOGAF Lifecycle  
 
-**Problem:** Most small online work is unverifiable, invisible, or untracked.  
-**Solution:** Operary is an open API + UI for programmable task assignments and immutable proof-of-work receipts.
+1. **Conceive**  
+   - Problem: Months-long roaming settlement with high OPEX + disputes.  
+   - Vision: Automate reconciliation via blockchain auditability + AI anomaly detection.  
 
-**Stack:** Go, Postgres, Hedera, Cloudflare Workers  
-**Launch:** Live at [operary.systemsignal.dev](https://operary.systemsignal.dev)
+2. **Plan**  
+   - Stakeholders: Telcos, regulators, roaming teams  
+   - LeanIX: Application portfolio — legacy mediation vs. reconciliation modules  
+   - ArchiMate: Technology + Data flow diagrams  
 
-→ [View Code →](https://github.com/elkarto91/operary)  
-→ [Explore API →](https://operary.systemsignal.dev/docs)
+3. **Develop**  
+   - Stack: Hedera Hashgraph · Hyperledger Fabric · Python anomaly engine · Postgres  
+   - Architecture: AI detects mismatches → blockchain logs receipts → smart contracts calculate settlements.  
 
----
+4. **Qualify**  
+   - KPIs: OPEX reduction %, dispute resolution time, % reconciled automatically  
+   - OKR Example: “Reduce dispute resolution time from 60 days → <15 days by Q2.”  
 
-## 🔍 Real Projects
+5. **Launch**  
+   - Piloted in multi-operator roaming environment  
+   - Integrated via OSS/BSS APIs  
 
-Built with full-stack thinking — concept to commit. These aren’t just ideas. They’re functional, deployed systems where I led product design, wrote core specs, and helped ship code.
+6. **Maximize**  
+   - Added compliance dashboards for regulators  
+   - LeanIX risk dashboards for blockchain upgrades + AI drift  
 
----
+7. **Retire**  
+   - Archive reconciliation history in distributed storage  
+   - Regulator-facing lineage proofs  
 
-### 🪙 [Operary](https://github.com/elkarto91/operary)  
-A minimal, public API to create, track, and verify task-based work on-chain.  
-→ **Focus**: Web3 design, verifiable work primitives, clean audit trails.  
-→ **Stack**: Go, Hedera, Postgres, Cloudflare Workers  
-→ **Unique Edge**: Thoughtfully small surface area with maximal trust utility  
-→ [View Site →](https://operary.systemsignal.dev)
-
----
-
-### 🔐 [TrustBridge](https://github.com/elkarto91/portfolio/tree/main/concept-projects/trustbridge)  
-Blockchain-backed proofs for secure enterprise data transfer.  
-→ **Focus**: Verifiability, audit logging, zero-trust infra.
-
-### 🌸 [Kaya](https://github.com/elkarto91/portfolio/tree/main/concept-projects/kaya)  
-An AI grief journal built for emotional safety.  
-→ **Focus**: LLM guardrails, memory layering, tone calibration.
-
-### 🚦 [CityFlow](https://github.com/elkarto91/portfolio/tree/main/concept-projects/cityflow)  
-Smart city command center for emergency coordination.  
-→ **Focus**: UX for dispatch logic, multi-agency collaboration.
-
-### ♻️ [LoopList](https://github.com/elkarto91/portfolio/tree/main/concept-projects/looplist)  
-QR-based circular economy tracker.  
-→ **Focus**: Product traceability, behavioral nudges, impact loops.
+#### Value  
+- OPEX reduced ~60%  
+- Dispute cycles shortened by ~30%  
+- Clear alignment with **TOGAF Technology & Data Architecture layers**  
+- Demonstrates use of **LeanIX for portfolio & risk governance**  
 
 ---
 
-## 🛠️ ChronoLedger Lifecycle
+### 💱 Stablecoin Payment Platform  
+Cross-border settlement rails using stablecoins.  
 
-### 1. Conceive  
-- Problem: Value decays invisibly.  
-- Idea: Make time programmable into trust systems.
-
-### 2. Plan  
-- Persona: Civic designers, ESG teams  
-- Model: Protocol fees + TTL unlock tax
-
-### 3. Develop  
-- Stack: Solidity + Hedera  
-- Infra: Schema versioning, contract testbed
-
-### 4. Qualify  
-- Metrics: Trust decayed, TTL precision  
-- Risks: Oracles, misuse of time logic
-
-### 5. Launch  
-- Pilot: 30-day carbon amnesty citywide  
-- GTM: Smart city dashboards
-
-### 6. Maximize  
-- Integrate into contracts, alerts, UIs  
-- Timeline UX + countdowns
-
-### 7. Retire  
-- Archive TTL-ledger  
-- Generate decay metrics + audit
+- Atomic swaps, liquidity pools, compliance modules  
+- Outcome: Piloted with regulated institutions; counterparty risk eliminated  
 
 ---
 
-> Want to help design or extend one of these systems? [Let’s talk →](/contact)
+### 🌍 Renewable Energy Infrastructure (REI)  
+Traceability for renewable energy certificates.  
+
+- IoT + blockchain for carbon credit validation  
+- Outcome: Regulators + buyers gain verifiable provenance  
+
+---
+
+## 🌱 Independent Platforms
+
+These projects represent my **personal exploration of system design, governance, and scale**.  
+
+### 🔐 Neuralic – AI Governance & Explainability  
+
+#### TOGAF Lifecycle  
+
+1. **Conceive**  
+   - Problem: AI adoption lacks audit trails + explainability  
+   - Vision: Governance stack that makes AI traceable, explainable, regulator-ready  
+
+2. **Plan**  
+   - Stakeholders: CIOs, compliance officers, AI leads  
+   - LeanIX: Map AI services across portfolios  
+   - ArchiMate: Business → Application → Data flows  
+
+3. **Develop**  
+   - Stack: Modular services (Neuralic.Core, Neuralic.Trace, Neuralic.Engine)  
+   - Architecture: Policy store, lineage tracker, explainability layer  
+   - Security: RBAC, encrypted audit logs, zero-trust APIs  
+
+4. **Qualify**  
+   - KPIs: % of decisions logged, % explainable models, compliance coverage  
+   - OKR Example: “Achieve 100% AI lineage tracking across enterprise ML pipelines by Q4.”  
+
+5. **Launch**  
+   - MVP open-sourced under *SignalBuilds*  
+   - Policy templates + governance docs published  
+
+6. **Maximize**  
+   - Cloud integrations (Azure OpenAI, AWS Sagemaker)  
+   - LeanIX dashboards for model drift + risk mapping  
+
+7. **Retire**  
+   - Archive explainability logs  
+   - Generate governance playbooks for successor AI systems  
+
+#### Value  
+- AI treated as **auditable infrastructure**  
+- Bridges **TOGAF IS Architecture** with **LeanIX governance**  
+- Independent flagship initiative demonstrating **trust-first design**  
+
+---
+
+### 📊 Ideas of Scale – Frameworks for Growth  
+Essays, models, and frameworks translating **TOGAF ADM phases + LeanIX governance** into actionable scaling strategies.  
+
+- Templates for portfolio management, OKRs, KPIs, architecture roadmaps  
+- Focus: Making abstract EA frameworks practical for **product leaders & architects**  
+
+---
+
+### 🛠 Operary – Industrial Coordination Engine  
+An API-first engine for industrial teams.  
+
+- Stack: Go · MongoDB · OpenAPI · Docker  
+- Features: Task orchestration, shift lifecycle logs, immutable audit trails  
+- Value: Traceability + verifiability in frontline operations  
+- Status: Live MVP → [operary.systemsignal.dev](https://operary.systemsignal.dev)  
+
+---
+
+## 🏗️ Concept Experiments
+
+- **TrustBridge** – Blockchain proofs for zero-trust data flows  
+- **CityFlow** – Emergency ops coordination dashboard  
+- **LoopList** – Circular economy reuse tracker  
+
+---
+
+## 🔮 Fictional Blueprints
+
+- **ChronoLedger** – Time-based programmable trust  
+- **Māyāforge** – Artifact-driven governance saga  
+- **BrahmaScript** – Recursive mythos of memory + relics  
+
+[→ Explore Blueprints in Detail](/blueprints)
+
+---
+
+## 📚 Signal Frameworks
+
+Frameworks applied across projects:  
+- **Enterprise Architecture** → TOGAF ADM · ArchiMate · LeanIX Portfolio/Risk Management  
+- **Product Strategy** → OKRs · KPIs · JTBD · RICE · MoSCoW  
+- **Governance** → Auditability · Traceability · Risk Dashboards  
+- **Scaling** → Wardley Maps · Dual-Track Agile · North Star Metrics  
+
+---
+
+> *“The Signal Stack is where I demonstrate not just what I’ve built, but how I think — with clarity, governance, and scale.”*
