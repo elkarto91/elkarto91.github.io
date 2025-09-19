@@ -23,8 +23,6 @@ title: "Links"
 - 📑 **Portfolio Deck (PDF)** → [Download here](/assets/KarthikMohan_PortfolioDeck.pdf)  
 - 📝 **Resume (Latest)** → [Download here](/assets/KarthikMohan_Resume.pdf)  
 
-*(Update these links to point to your hosted assets on GitHub Pages or Drive.)*  
-
 ---
 
 ## 📚 Featured Pages
@@ -34,6 +32,8 @@ title: "Links"
 - 🏗️ [Blueprints: Fictional but Feasible Systems](/blueprints)  
 - ✍️ [Writing: Essays & Explorations](/writing)  
 - 🧭 [Philosophy: Principles Handbook](/philosophy)  
+- 🛰️ **Enterprise Architecture** → [Taxation Blockchain](https://github.com/elkarto91/taxation-blockchain-enterprise-architecture)  
+
 
 ---
 
