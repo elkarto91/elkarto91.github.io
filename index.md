@@ -3,106 +3,120 @@ layout: default
 title: "System Signal"
 ---
 
-# 🛰️ SYSTEM SIGNAL
+<div class="hero">
+  <img src="/assets/avatar.png" alt="Karthik Mohan" class="hero-avatar" />
+  <div class="hero-name">KARTHIK MOHAN</div>
+  <div class="hero-tagline">I build systems that earn trust at scale.</div>
+  <div class="hero-sub">Enterprise Architect &nbsp;·&nbsp; Technical Product Manager &nbsp;·&nbsp; Platform Builder</div>
+  <div class="cta-group">
+    <a href="/work" class="btn btn-primary">View Work</a>
+    <a href="/consulting" class="btn btn-secondary">Let's Talk</a>
+  </div>
+</div>
 
-> *“Where systems are designed for clarity, and products earn trust through proof.”*
-
-**System Signal** is a publication and portfolio exploring the craft of **system design, enterprise architecture, and product strategy**.  
-It reflects over a decade of building platforms where **architecture meets execution, and trust becomes measurable.**
-
-<img src="/assets/retro-tech-banner.png" alt="System Signal" style="width: 100%; margin: 2rem 0; border-radius: 8px; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
-
----
-
-## 🧭 PURPOSE
-
-This space exists for those who:  
-- Seek clarity in complex systems  
-- Think in architectures, not features  
-- Believe product is the interface between technology and meaning  
-
-It is less a blog, more a **working notebook** — where essays, case studies, and frameworks are tested, refined, and shared for builders who value **structure, verifiability, and scale**.
-
----
-
-## 🔧 SYSTEMS & PRODUCTS
-
-Recent work includes **enterprise-grade platforms** for payments, tax compliance, governance, and telecom — alongside conceptual explorations of systems that *could* exist.  
-
-### 🚀 Enterprise Platforms
-- **Stablepay** – Stablecoin payment rails on zkSync with compliance, liquidity, and partner onboarding  
-- **TaxChain / PID** – Blockchain-based VAT compliance (in collaboration with European tax authorities)  
-- **Neuralic** – AI governance and reasoning layer for explainability and audit trails  
-- **Telecom CDR Settlement** – Hedera-powered reconciliation and mediation for multi-operator roaming  
-
-### 🌱 Concept Systems
-- **TrustBridge** – Blockchain-backed receipts for enterprise data transfers  
-- **Kaya** – AI grief journaling companion for silent processing  
-- **CityFlow** – Emergency ops dashboard for multi-agency response  
-- **LoopList** – QR-powered reuse and circular economy tracker  
-
-[→ Explore All Projects](/projects)
+<div class="signal-bar">
+  <div class="signal-stat">
+    <span class="number">11+</span>
+    <span class="label">Years</span>
+  </div>
+  <div class="signal-stat">
+    <span class="number">15+</span>
+    <span class="label">Engineers Led</span>
+  </div>
+  <div class="signal-stat">
+    <span class="number">10+</span>
+    <span class="label">Platforms Built</span>
+  </div>
+  <div class="signal-stat">
+    <span class="number">4</span>
+    <span class="label">Domains</span>
+  </div>
+</div>
 
 ---
 
-## 🧠 PERSPECTIVE
+## What I Do
 
-> *“All technical debt begins as storytelling debt.”*
-
-The work documented here rests on a few simple beliefs:  
-
-- Systems succeed when incentives and architecture align  
-- Trust is not “soft”—it is infrastructure  
-- Clear governance outperforms speed in the long run  
-- Metrics measure, but meaning endures  
-
-[→ Read Full Philosophy](/philosophy)
-
----
-
-## 🧬 SIGNAL FRAMEWORKS
-
-- [📡 The System Signal Thesis](/thesis) – product as interface between systems and meaning  
-- [🧠 Signal Stack](/signalstack) – case studies in system architecture  
-- [🏗️ Blueprints](/blueprints) – fictional but feasible designs  
+<div class="three-col">
+  <div class="three-col-item">
+    <h3>Enterprise Architecture</h3>
+    <p>TOGAF-informed roadmaps. Capability maps linked to OKRs. ArchiMate models that get used. Governance that enables rather than gates.</p>
+  </div>
+  <div class="three-col-item">
+    <h3>Technical Product Management</h3>
+    <p>End-to-end product lifecycle from discovery to scale. API-as-a-product. Dual-track agile. GTM alignment. The full span from whiteboard to production.</p>
+  </div>
+  <div class="three-col-item">
+    <h3>Platform Engineering</h3>
+    <p>Go, Kubernetes, Terraform, event-driven systems. I build the thing and architect the thing. That combination matters in high-stakes delivery.</p>
+  </div>
+</div>
 
 ---
 
-## 🧰 TOOLKIT
+## Selected Work
 
-| Area | Practices & Tools |
-|------|-------------------|
-| **Enterprise Architecture** | TOGAF · LeanIX · ArchiMate · Wardley Maps |
-| **Blockchain** | Hyperledger Fabric · Hedera · zkSync · Ethereum |
-| **AI/ML** | GPT APIs · LangChain · Guardrails · Sentiment Models |
-| **Backend & Infra** | Go · Python · Postgres · Azure · Docker · Kubernetes |
-| **Product Ops** | OKRs · KPIs · RACI/DACI · JTBD · MoSCoW · Figma · JIRA |
+Not a ticker of metrics. Real problems that needed systems designed for trust.
 
----
+<div class="card-grid">
+  <div class="card">
+    <div class="section-label">Compliance · Blockchain</div>
+    <h3>TaxChain / PID</h3>
+    <p>EU VAT compliance platform with cryptographic proof of intracommunity delivery. SAP S/4HANA integration, regulator portals, immutable audit trails. Designed for the gap between commerce and scrutiny.</p>
+    <div class="impact">80%+ fraud reduction · European Tax Summit 2022</div>
+  </div>
+  <div class="card cyan">
+    <div class="section-label">Telecom · AI</div>
+    <h3>Roaming Settlement</h3>
+    <p>AI-powered CDR reconciliation converting months of manual settlement into real-time automated workflows. Blockchain-anchored receipts. Built because revenue was leaking and nobody was watching.</p>
+    <div class="impact">~60% OPEX reduction · 30% faster dispute resolution</div>
+  </div>
+  <div class="card gold">
+    <div class="section-label">AI Governance · Open Source</div>
+    <h3>Neuralic</h3>
+    <p>Open-source AI observability platform. Policy stores, lineage graphs, explainability interfaces, red-team harnesses. Built because enterprises were deploying AI with no accountability layer.</p>
+    <div class="impact">Founder/Architect · Reference implementation for AI auditability</div>
+  </div>
+</div>
 
-## 🌀 CREATIVE DIMENSION
-
-Alongside industry platforms, there is space here for **imaginative systems**: mythic world-building, recursive storytelling, and speculative architectures.  
-They are not distractions — they are **prototypes of thought** that sharpen real-world clarity.  
-
-- 🌐 [Brahmascript] – a recursive mythos of memory and relics  
-- 🔮 [Māyāforge] – a post-mythical saga with artifact economies  
-- ✍️ [Dependencies:None] – speculative fiction with systemic roots  
-
----
-
-## 📫 CONNECT
-
-- 🌐 [Website](https://systemsignal.dev/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-m-portfolio/)  
-- 💻 [GitHub](https://github.com/elkarto91)  
-- 🧵 [Twitter / X](https://twitter.com/chaingopher)  
-- ✉️ [Email](mailto:karthik@systemsignal.dev)
+<p style="text-align:center; margin-top: 1.25rem;">
+  <a href="/work" class="btn btn-secondary">See All Work →</a>
+</p>
 
 ---
 
-## 🧭 CLOSING SIGNAL
+## Currently Building
 
-> *“We are custodians of complexity.  
-We owe the system clarity.  
-We owe the user meaning.”*
+<div class="card-grid">
+  <div class="card gold">
+    <div class="section-label">Open Source</div>
+    <h3>Neuralic</h3>
+    <p>AI governance patterns, lineage tracking, policy-as-code. Making responsible AI deployment something you can actually implement, not just talk about.</p>
+  </div>
+  <div class="card cyan">
+    <div class="section-label">Independent</div>
+    <h3>Operary</h3>
+    <p>Industrial event-to-SOP coordination engine. API-first, verifiable shifts, compliance analytics for manufacturing operations. Running.</p>
+  </div>
+  <div class="card">
+    <div class="section-label">Education</div>
+    <h3>MBA — AI for Business</h3>
+    <p>BITS Pilani WILP. Because the gap between architecture and business strategy is where things go wrong, and I intend to close it permanently.</p>
+  </div>
+</div>
+
+---
+
+## The Thinking
+
+The work is downstream of a set of beliefs about what systems are for.
+
+> **Product is the interface between systems and meaning. Signal is the structure beneath the noise.**
+
+Eleven years of building compliance-grade platforms in blockchain, AI, and payments has produced a clear operating philosophy: clarity scales, ambiguity decays, and trust has to be engineered — not assumed.
+
+The creative and philosophical dimensions — the blueprints, the speculative systems, the frameworks published in public — are not separate from the enterprise work. They are how I stay sharp on the questions that the client work doesn't always let you ask.
+
+<p style="margin-top: 1.25rem;">
+  <a href="/philosophy" class="btn btn-primary">Read the Philosophy →</a>
+</p>

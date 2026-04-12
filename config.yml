@@ -1,5 +1,5 @@
 title: "System Signal"
-description: "Karthik – product strategist, systems thinker, builder of trust-first tech"
+description: "Karthik Mohan — Enterprise Architect, Technical Product Manager, and builder of trust-first platforms."
 baseurl: ""
 url: "https://systemsignal.dev"
 theme: null
@@ -7,11 +7,11 @@ theme: null
 markdown: kramdown
 permalink: pretty
 
-# Optional social
-email: karthik@systemsignal.dev
+email: karthiknair091@gmail.com
 github_username: elkarto91
 linkedin_username: karthik-m-portfolio
 twitter_username: chaingopher
+
 collections:
   projects:
     output: true
