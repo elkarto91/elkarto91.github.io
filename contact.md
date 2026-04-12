@@ -5,7 +5,7 @@ title: "Contact"
 
 <div class="hero" style="padding: 2rem 0 1rem;">
   <img src="/assets/avatar.png" alt="Karthik Mohan" class="hero-avatar" style="width:110px; height:110px;" />
-  <div class="hero-name" style="font-size:1.8rem;">KARTHIK MOHAN</div>
+  <div class="hero-name" style="font-size:1.8rem;">KARTHIK</div>
   <div class="hero-sub">Bengaluru, India · Open to remote &amp; global engagements</div>
 </div>
 

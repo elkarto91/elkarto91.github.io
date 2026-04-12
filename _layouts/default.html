@@ -5,16 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>{{ page.title }} — System Signal</title>
-  <meta name="description" content="Karthik Mohan — Enterprise Architect, Technical Product Manager, and builder of trust-first platforms. 11+ years across blockchain, AI governance, payments, and compliance." />
+  <meta name="description" content="Karthik — Enterprise Architect, Technical Product Manager, and builder of trust-first platforms. 11+ years across blockchain, AI governance, payments, and compliance." />
 
   <!-- Styles -->
   <link rel="stylesheet" href="/assets/css/dark.css" />
-  <link rel="stylesheet" href="/assets/css/consulting.css" />
   <link rel="icon" href="/assets/favicon.png" type="image/png" />
 
   <!-- Open Graph -->
   <meta property="og:title" content="{{ page.title }} — System Signal" />
-  <meta property="og:description" content="Karthik Mohan — Enterprise Architect and Technical Product Manager. Building systems that earn trust at scale." />
+  <meta property="og:description" content="Karthik — Enterprise Architect and Technical Product Manager. Building systems that earn trust at scale." />
   <meta property="og:url" content="https://systemsignal.dev{{ page.url }}" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://systemsignal.dev/assets/avatar.png" />
@@ -25,30 +24,33 @@
   <meta name="twitter:description" content="Enterprise Architect · Technical Product Manager · Builder. I build systems that earn trust at scale." />
   <meta name="twitter:image" content="https://systemsignal.dev/assets/avatar.png" />
 
-  <meta name="author" content="Karthik Mohan" />
+  <meta name="author" content="Karthik" />
   <meta name="theme-color" content="#07071a" />
 </head>
 
 <body>
+  <div class="scanlines" aria-hidden="true"></div>
+
   <div class="container">
 
-    <nav>
-      <a href="/">Home</a> |
-      <a href="/work">Work</a> |
-      <a href="/philosophy">Philosophy</a> |
-      <a href="/writing">Writing</a> |
-      <a href="/consulting">Consulting</a> |
-      <a href="/contact">Contact</a>
+    <nav class="site-nav">
+      <a href="/" class="nav-logo">SYSTEM<em>SIGNAL</em></a>
+      <div class="nav-links">
+        <a href="/work">Work</a>
+        <a href="/philosophy">Philosophy</a>
+        <a href="/writing">Writing</a>
+        <a href="/consulting">Consulting</a>
+        <a href="/contact">Contact</a>
+      </div>
+      <span class="nav-status">
+        <span class="status-dot"></span>OPEN TO WORK
+      </span>
     </nav>
-
-    <hr />
 
     {{ content }}
 
-    <hr />
-
     <footer>
-      <p>KARTHIK MOHAN &nbsp;·&nbsp; ENTERPRISE ARCHITECT &nbsp;·&nbsp; TECHNICAL PRODUCT MANAGER</p>
+      <p>KARTHIK &nbsp;·&nbsp; ENTERPRISE ARCHITECT &nbsp;·&nbsp; TECHNICAL PRODUCT MANAGER</p>
       <p><a href="https://systemsignal.dev">systemsignal.dev</a> &nbsp;·&nbsp; © {{ 'now' | date: "%Y" }} System Signal</p>
     </footer>
 
