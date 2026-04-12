@@ -3,30 +3,45 @@ layout: default
 title: "System Signal"
 ---
 
-<div class="hero">
-  <img src="/assets/avatar.png" alt="Karthik Mohan" class="hero-avatar" />
-  <div class="hero-name">KARTHIK MOHAN</div>
-  <div class="hero-tagline">I build systems that earn trust at scale.</div>
-  <div class="hero-sub">Enterprise Architect &nbsp;·&nbsp; Technical Product Manager &nbsp;·&nbsp; Platform Builder</div>
-  <div class="cta-group">
-    <a href="/work" class="btn btn-primary">View Work</a>
-    <a href="/consulting" class="btn btn-secondary">Let's Talk</a>
+<div class="hero-split">
+  <div class="hero-identity">
+    <img src="/assets/avatar.png" alt="Karthik" class="hero-avatar" />
+    <div class="hero-coords">12.9716°N · 77.5946°E<br>BENGALURU, INDIA</div>
+    <div class="hero-social-row">
+      <a href="https://github.com/elkarto91" class="social-chip">GH</a>
+      <a href="https://www.linkedin.com/in/karthik-m-portfolio" class="social-chip">LI</a>
+      <a href="https://twitter.com/chaingopher" class="social-chip">TW</a>
+      <a href="mailto:karthiknair091@gmail.com" class="social-chip">EM</a>
+    </div>
+  </div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">SYSTEM SIGNAL &nbsp;·&nbsp; EST. 2013</div>
+    <div class="hero-name">KARTHIK</div>
+    <div class="hero-tagline">I build systems that earn trust at scale.</div>
+    <div class="hero-sub">Enterprise Architect &nbsp;·&nbsp; Technical Product Manager &nbsp;·&nbsp; Platform Builder</div>
+    <div class="cta-group">
+      <a href="/work" class="btn btn-primary">View Work</a>
+      <a href="/consulting" class="btn btn-secondary">Let's Talk</a>
+    </div>
   </div>
 </div>
 
 <div class="signal-bar">
   <div class="signal-stat">
     <span class="number">11+</span>
-    <span class="label">Years</span>
+    <span class="label">Years of Practice</span>
   </div>
+  <div class="signal-divider">|</div>
   <div class="signal-stat">
     <span class="number">15+</span>
     <span class="label">Engineers Led</span>
   </div>
+  <div class="signal-divider">|</div>
   <div class="signal-stat">
     <span class="number">10+</span>
     <span class="label">Platforms Built</span>
   </div>
+  <div class="signal-divider">|</div>
   <div class="signal-stat">
     <span class="number">4</span>
     <span class="label">Domains</span>
