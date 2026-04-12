@@ -85,7 +85,7 @@ Monthly engagement for ongoing guidance. Good for: sustained architectural overs
 If you're building something that needs to be architecturally sound, compliance-ready, and actually delivered — reach out.
 
 <div class="cta-group" style="margin-top:1.5rem;">
-  <a href="mailto:karthiknair091@gmail.com" class="btn btn-primary">Email Karthik</a>
+  <a href="mailto:karthik@systemsignal.dev" class="btn btn-primary">Email Karthik</a>
   <a href="https://www.linkedin.com/in/karthik-m-portfolio" class="btn btn-secondary">Connect on LinkedIn</a>
 </div>
 
