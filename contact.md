@@ -30,7 +30,7 @@ title: "Contact"
     <div class="section-label">Direct</div>
     <h3>Email</h3>
     <p>For consulting enquiries, architecture discussions, or anything that needs a proper conversation.</p>
-    <a href="mailto:karthiknair091@gmail.com" class="btn btn-secondary" style="display:inline-block; margin-top:0.75rem; font-size:0.65rem; padding:0.5rem 1rem; border-color:#f7d07a; color:#f7d07a;">Write →</a>
+    <a href="mailto:karthik@systemsignal.dev" class="btn btn-secondary" style="display:inline-block; margin-top:0.75rem; font-size:0.65rem; padding:0.5rem 1rem; border-color:#f7d07a; color:#f7d07a;">Write →</a>
   </div>
 </div>
 
@@ -54,4 +54,4 @@ title: "Contact"
 | LinkedIn | [karthik-m-portfolio](https://www.linkedin.com/in/karthik-m-portfolio) |
 | GitHub | [elkarto91](https://github.com/elkarto91) |
 | Twitter / X | [@chaingopher](https://twitter.com/chaingopher) |
-| Email | [karthiknair091@gmail.com](mailto:karthiknair091@gmail.com) |
+| Email | [karthik@systemsignal.dev](mailto:karthik@systemsignal.dev) |

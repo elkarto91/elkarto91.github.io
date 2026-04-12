@@ -11,7 +11,7 @@ title: "System Signal"
       <a href="https://github.com/elkarto91" class="social-chip">GH</a>
       <a href="https://www.linkedin.com/in/karthik-m-portfolio" class="social-chip">LI</a>
       <a href="https://twitter.com/chaingopher" class="social-chip">TW</a>
-      <a href="mailto:karthiknair091@gmail.com" class="social-chip">EM</a>
+      <a href="mailto:karthik@systemsignal.dev" class="social-chip">EM</a>
     </div>
   </div>
   <div class="hero-content">

@@ -1,63 +1,43 @@
-# 🛰️ System Signal
+# System Signal
 
-> *“Where system design, enterprise architecture, and product strategy converge.”*
+> *"Product is the interface between systems and meaning. Signal is the structure beneath the noise."*
 
-![System Signal Logo](assets/SystemSignalLogo.png)
+Personal portfolio and knowledge base of **Karthik** — Enterprise Architect, Technical Product Manager, and builder of trust-first platforms.
 
----
-
-## 📖 Overview
-
-**System Signal** is the personal portfolio and knowledge base of **Karthik Mohan**.  
-It brings together **enterprise architecture frameworks (TOGAF, LeanIX, ArchiMate)**,  
-**system design clarity**, and **product lifecycle leadership (OKRs, KPIs, JTBD)**.  
-
-This repository powers the site → [systemsignal.dev](https://systemsignal.dev)
+Site → [systemsignal.dev](https://systemsignal.dev)
 
 ---
 
-## 🧭 What You’ll Find
+## Pages
 
-### 🏠 Core Pages
-- **[Home](/index.md)** → Positioning & featured work  
-- **[About](/about.md)** → Professional identity & career journey  
-- **[Projects](/projects.md)** → Enterprise platforms, independent systems, blueprints  
-- **[Signal Stack](/signalstack.md)** → Case studies with TOGAF/LeanIX frameworks  
-- **[Blueprints](/blueprints.md)** → Fictional but feasible system designs  
-- **[Philosophy](/philosophy.md)** → Leadership principles & operating philosophy  
-- **[Thesis](/thesis.md)** → The strategic manifesto of System Signal  
-- **[Library](/library.md)** → Curated references (EA, Product, Systems)  
-- **[Writing](/writing.md)** → Essays, case studies, and speculative systems  
-
-### 🛠 Utility Pages
-- **[Consulting](/consulting.md)** → Services, advisory, and workshops  
-- **[Contact](/contact.md)** → Direct channels & Calendly booking  
-- **[Links](/links.md)** → Quick hub for profiles & documents  
+| Page | Description |
+|---|---|
+| [Home](index.md) | Hero, featured work, current projects |
+| [Work](work.md) | Enterprise case studies, independent builds, blueprints |
+| [Philosophy](philosophy.md) | Operating principles, beliefs, AI governance thinking |
+| [Writing](writing.md) | Essays, case studies, and frameworks |
+| [Consulting](consulting.md) | Services, advisory formats, example engagements |
+| [Contact](contact.md) | Channels, availability, quick links |
 
 ---
 
-## 🌐 Profiles & Contact
+## Stack
 
-- 🌐 Website → [systemsignal.dev](https://systemsignal.dev/)  
-- 💼 LinkedIn → [linkedin.com/in/karthik-m-portfolio](https://www.linkedin.com/in/karthik-m-portfolio/)  
-- 💻 GitHub → [github.com/elkarto91](https://github.com/elkarto91)  
-- 🧵 Twitter/X → [@chaingopher](https://twitter.com/chaingopher)  
-- ✉️ Email → [karthik@systemsignal.dev](mailto:karthik@systemsignal.dev)
+Jekyll · GitHub Pages · Custom synthwave CSS (no frameworks)  
+Fonts: Orbitron + Inter · Palette: `#07071a` / `#ff2a6d` / `#05d9e8` / `#7928ca`
 
 ---
 
-## 🧬 Philosophy in Short
+## Contact
 
-- **Clarity scales, ambiguity decays**  
-- **Trust is infrastructure, not decoration**  
-- **Products prove — they don’t just claim**  
-- **Governance is leadership**  
-- **Metrics measure, meaning guides**  
+- Website → [systemsignal.dev](https://systemsignal.dev)
+- LinkedIn → [karthik-m-portfolio](https://www.linkedin.com/in/karthik-m-portfolio)
+- GitHub → [elkarto91](https://github.com/elkarto91)
+- Twitter/X → [@chaingopher](https://twitter.com/chaingopher)
+- Email → [karthik@systemsignal.dev](mailto:karthik@systemsignal.dev)
 
 ---
 
-## 📜 License
+## License
 
-This repository hosts the **System Signal site**.  
-All essays, projects, and blueprints are authored by **Karthik Mohan**.  
-For inquiries about re-use or collaboration → [Contact Me](/contact.md).
+All content authored by Karthik. For re-use or collaboration enquiries → [contact](contact.md).
