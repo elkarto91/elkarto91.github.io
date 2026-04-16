@@ -67,7 +67,7 @@ If yes, build it. If not, redesign it before you build it.
 
 **Technical debt as a managed position, not a failure.** Not all debt is failure. Some is a conscious trade-off. The discipline is: maintain explicit debt registers, establish debt budgets, schedule repayment sprints. I've reduced legacy maintenance costs by 40% through systematic debt retirement guided by business value and risk metrics — not guilt.
 
-**Platform thinking for multiplicative value.** Build platforms, not solutions. KrypCore Web3 started as blockchain infrastructure and now supports dozens of applications. That's platform thinking working — the investment multiplies across every subsequent product that uses the foundation.
+**Platform thinking for multiplicative value.** Build platforms, not solutions. A Web3 Developer Studio started as blockchain infrastructure and now supports dozens of applications. That's platform thinking working — the investment multiplies across every subsequent product that uses the foundation.
 
 ---
 

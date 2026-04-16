@@ -14,7 +14,7 @@ A record of systems built, problems solved, and ideas that became products. The 
 <div class="work-entry">
   <div class="section-label">Compliance · Blockchain · SAP Integration</div>
   <h3>TaxChain / PID — EU VAT Compliance</h3>
-  <div class="meta">Enterprise Architect & Product Lead · KrypC · 2022–Present</div>
+  <div class="meta">Enterprise Architect & Product Lead · 2022–Present</div>
   <span class="pill pill-purple">Hyperledger Fabric</span>
   <span class="pill pill-cyan">SAP S/4HANA</span>
   <span class="pill pill-pink">Compliance</span>
@@ -32,7 +32,7 @@ A record of systems built, problems solved, and ideas that became products. The 
 <div class="work-entry cyan">
   <div class="section-label">Telecom · AI/ML · Blockchain</div>
   <h3>Roaming Settlement — AI-Powered CDR Reconciliation</h3>
-  <div class="meta">Enterprise Architecture Lead · KrypC · 2024–Present</div>
+  <div class="meta">Enterprise Architecture Lead · 2024–Present</div>
   <span class="pill pill-pink">AI Anomaly Detection</span>
   <span class="pill pill-cyan">CDR Mediation</span>
   <span class="pill pill-purple">Blockchain Receipts</span>
@@ -49,7 +49,7 @@ A record of systems built, problems solved, and ideas that became products. The 
 <div class="work-entry">
   <div class="section-label">Payments · Web3 · Compliance</div>
   <h3>StablePay — Stablecoin Payment Rails on zkSync</h3>
-  <div class="meta">Platform Architect · KrypC · 2023–Present</div>
+  <div class="meta">Platform Architect · 2023–Present</div>
   <span class="pill pill-pink">zkSync Era</span>
   <span class="pill pill-cyan">Atomic Settlement</span>
   <span class="pill pill-purple">Smart Wallets</span>
@@ -66,7 +66,7 @@ A record of systems built, problems solved, and ideas that became products. The 
 <div class="work-entry purple">
   <div class="section-label">Identity · FinTech · Banking</div>
   <h3>VideoKYC — Digital Banking Onboarding</h3>
-  <div class="meta">Senior Engineer / Solution Architect · KrypC · 2020–2022</div>
+  <div class="meta">Senior Engineer / Solution Architect · 2020–2022</div>
   <span class="pill pill-cyan">Liveness Detection</span>
   <span class="pill pill-gold">Identity Verification</span>
   <span class="pill pill-pink">Audit Trails</span>
@@ -82,8 +82,8 @@ A record of systems built, problems solved, and ideas that became products. The 
 
 <div class="work-entry cyan">
   <div class="section-label">Infrastructure · Platform Engineering</div>
-  <h3>KrypCore Web3 — Multi-Cloud Blockchain Platform</h3>
-  <div class="meta">Technical Lead & Product Manager · KrypC · 2022–2024</div>
+  <h3>Web3 Developer Studio — Multi-Cloud Blockchain Platform</h3>
+  <div class="meta">Technical Lead & Product Manager · 2022–2024</div>
   <span class="pill pill-purple">Kubernetes</span>
   <span class="pill pill-cyan">Terraform</span>
   <span class="pill pill-gold">Platform Primitives</span>
@@ -93,14 +93,14 @@ A record of systems built, problems solved, and ideas that became products. The 
   <p><strong>What was built:</strong> Multi-cloud platform on Terraform and Kubernetes with comprehensive gateway services, identity management, observability infrastructure, and policy enforcement mechanisms. The platform that made all subsequent platforms faster.</p>
 
   <div class="outcome">
-    <strong>Impact:</strong> Patterns reused across 6+ subsequent products. 3x deployment frequency improvement. Foundation for the entire KrypC product portfolio.
+    <strong>Impact:</strong> Patterns reused across 6+ subsequent products. 3x deployment frequency improvement. Foundation for all subsequent platform products.
   </div>
 </div>
 
 <div class="work-entry">
   <div class="section-label">AML · Crypto Forensics · Compliance</div>
-  <h3>KrypCore Sensor — Crypto Forensics & AML</h3>
-  <div class="meta">Technical Lead · KrypC · 2023–2024</div>
+  <h3>Crypto Forensics Tool — On-Chain AML & Investigation</h3>
+  <div class="meta">Technical Lead · 2023–2024</div>
   <span class="pill pill-pink">Graph Analytics</span>
   <span class="pill pill-cyan">Sanctions Screening</span>
   <span class="pill pill-purple">Risk Scoring</span>
@@ -200,16 +200,3 @@ Systems I'm designing in public. Architecturally serious. Where I think through 
   <a href="/blueprints" class="btn btn-secondary">Read All Blueprints →</a>
 </p>
 
----
-
-## Career Arc
-
-| Period | Role | Organisation |
-|--------|------|-------------|
-| 2024–Present | AVP – Products & Strategic Programs | KrypC Technologies |
-| 2022–2024 | Technical Lead & Product Manager | KrypC Technologies |
-| 2020–2022 | Senior Engineer / Solution Architect | KrypC Technologies |
-| 2018–2020 | Blockchain Engineer / Backend Engineer | KrypC Technologies |
-| 2015–2018 | Technical Analyst | IBM India |
-| 2014–2015 | Java Developer | KeyLuck InfoTech |
-| 2014–Present | Founder | Signal Builds |
