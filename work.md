@@ -82,7 +82,7 @@ A record of systems built, problems solved, and ideas that became products. The 
 
 <div class="work-entry cyan">
   <div class="section-label">Infrastructure · Platform Engineering</div>
-  <h3>KrypCore Web3 — Multi-Cloud Blockchain Platform</h3>
+  <h3>BlockchainOS — Multi-Cloud Blockchain Platform</h3>
   <div class="meta">Technical Lead & Product Manager · 2022–2024</div>
   <span class="pill pill-purple">Kubernetes</span>
   <span class="pill pill-cyan">Terraform</span>
@@ -99,7 +99,7 @@ A record of systems built, problems solved, and ideas that became products. The 
 
 <div class="work-entry">
   <div class="section-label">AML · Crypto Forensics · Compliance</div>
-  <h3>KrypCore Sensor — Crypto Forensics & AML</h3>
+  <h3>ChainScope — Crypto Forensics & AML</h3>
   <div class="meta">Technical Lead · 2023–2024</div>
   <span class="pill pill-pink">Graph Analytics</span>
   <span class="pill pill-cyan">Sanctions Screening</span>
